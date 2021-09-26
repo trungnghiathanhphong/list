@@ -1,758 +1,185 @@
-    {
-     "name": "List TV 18/3/2019",
-     "author": "Văn Lĩnh",
-     "image": "https://wiseplay.tv/wp-content/uploads/2016/10/logo512.png",
-     "info": "List kênh Tổng hợp từ nhiều nguồn trên Internet",
-     "url": "http://gg.gg/linhw3u",
-	 "groups": [
-    {
-		"name": "⚽ WEB xem Bóng đá (có bình luận tiếng Việt)⚽",
-        "image": "https://www.iptv4sat.com/wp-content/uploads/sport-1-696x693.jpg",
-        "stations": [
-	    {
-          "image": "https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png",
-          "name": "SCTV-15 SV1",
-          "url": "http://m.tivi12h.net/sctv15.php",
-          "webviewType": "chrome",
-          "embed": true
-        },
-        {
-          "image": "https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png",
-          "name": "SCTV-15 SV2",
-          "url": "http://m.xemtivivn.com/sctv15.php",
-          "webviewType": "chrome",
-          "embed": true
-        },
-		{
-          "image": "https://i.imgur.com/jyM3inb.png",
-          "name": "Xem bóng đá tại live.90phut.tv - Mở trận đấu cần xem để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức !",
-          "url": "https://live.90phut.tv/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "http://vatvo.club/public/images/vatvo-logo.png",
-          "name": "Xem bóng đá tại vatvo.club - Mở trận đấu cần xem để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức !",
-          "url": "http://vatvo.club/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-           "image": "http://cafefootball.live/public/images/logo.png",
-          "name": "Xem Bóng đá tại cafefootball.live - Mở trận đấu cần xem để get link > click play (hình vuông, góc trên cùng bên phải màn hình) > chọn link để xem !",
-          "url": "http://cafefootball.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://thevang.tv/themes/frontend/default/img/logo.png",
-          "name": "Xem Bóng đá tại thevang.tv - Mở trận đấu cần xem để get link > click play (hình vuông, góc trên cùng bên phải màn hình) > chọn link để xem !",
-          "url": "https://thevang.tv/truc-tiep-bong-da.html",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://demkhuya.tv/wp-content/themes/itfs/assets/images/34191045_981163082042209_6351080930731360256_n.png",
-          "name": "Xem bóng đá tại demkhuya.tv - Mở trận đấu cần xem để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức !",
-          "url": "https://demkhuya.tv/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://bongdalive.tv/wp-content/themes/itfs/assets/images/34321018_981163088708875_6951533434774749184_n.png",
-          "name": "Xem bóng đá tại bongdalive.tv - Mở trận đấu cần xem để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức ! ",
-          "url": "https://bongdalive.tv/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://ngoac.tv/themes/frontend/default/img/logo.png",
-          "name": "Xem bóng đá tại ngoac.tv - Mở trận đấu cần xem để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức !",
-          "url": "http://ngoac.tv/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://bongdaso.tv/wp-content/themes/itfs/assets/images/logo.svg",
-          "name": "Xem bóng đá tại bongdaso.tv - Mở trận đấu cần xem để get link  > click play (góc trên cùng bên phải màn hình) để thưởng thức !",
-          "url": "https://bongdaso.tv/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "http://11met.tv/11met-logo.png",
-          "name": "Xem bóng đá tại 11met.tv - Mở trận đấu cần xem để get link  > click play (góc trên cùng bên phải màn hình) để thưởng thức !",
-          "url": "http://11met.tv/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://image.flaticon.com/icons/png/512/308/308264.png",
-          "name": "Xem lại các trận đấu bóng đá quốc tế (Anh, Tây Ban Nha, Italia...) - Mở trận đấu cần xem > chọn tải và chất lượng phù hợp > thưởng thức !",
-          "url": "http://footballfullmatch.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        }
-      ]
-    },
-       
-    {
-      "name": "Truyền hình Việt Nam và Quốc tế",
-      "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
-      "stations": [
-        {  
-          "image": "http://www.xemtivimienphi.com/image/vtv1.png",
-          "name": "VTV1 HD s1",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=154_3&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-         {
-          "image": "http://www.xemtivimienphi.com/image/vtv2.png",
-          "name": "VTV2 HD s1",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=192_3&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/vtv3.png",
-          "name": "VTV3 HD s1",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=155_3&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/vtv4.png",
-          "name": "VTV4 HD",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=4_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/vtv4.png",
-          "name": "VTV4 HD",
-          "url": "http://play.vtv.vn/?v=dnR2NA==",
-          "isHost": true
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/vtv5.png",
-          "name": "VTV5 HD",
-          "url": "http://play.vtv.vn/?v=dnR2NQ==",
-          "isHost": true
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/vtv5.png",
-          "name": "VTV5 Tây Nguyên",
-          "url": "http://play.vtv.vn/?v=dnR2NXRu",
-          "isHost": true
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/vtv5.png",
-          "name": "VTV5 Tây Nam Bộ",
-          "url": "http://play.vtv.vn/?v=dnR2NWtt",
-          "isHost": true
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/vtv6.png",
-          "name": "VTV6 HD s1",
-          "url": "https://play.vtv.vn/?v=dnR2Ng==&t=20190113191525&autoplay=true",
-          "isHost": true
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/vtv6.png",
-          "name": "VTV6 HD s2",
-          "url": "http://www.xemtivimienphi.com/",
-          "referrer": "http://m.xemtivimienphi.com/vtv6.php",          
-          "isHost": true
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/vtv7.png",
-          "name": "VTV7 HD",
-          "url": "http://play.vtv.vn/?v=dnR2Nw==",
-          "isHost": true
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/vtv8.png",
-          "name": "VTV8 HD s1",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=196_3&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/vtv8.png",
-          "name": "VTV8 HD s2",
-          "url": "http://play.vtv.vn/?v=dnR2OA==",
-          "isHost": true
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/vtv9.png",
-          "name": "VTV9 HD s1",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=197_3&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/vtv9.png",
-          "name": "VTV9 HD s2",
-          "url": "http://play.vtv.vn/?v=dnR2OQ==",
-          "isHost": true
-        },
-        {
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vietnam_Television_logo_from_2013.svg/220px-Vietnam_Television_logo_from_2013.svg.png",
-          "name": "Kênh VTV1 - VTV9: Chọn chất lượng từ trên xuống",
-          "url": "https://www.vtvgiaitri.vn/xem-tivi-truc-tuyen/vtv5",
-          "referrer": "https://www.vtvgiaitri.vn/",
-          "isHost": true
-        },
-        {
-          "image": "http://tv.vnoo.net/img/ttxvn.jpg?v=1.1.3.5",
-          "name": "TTXVN",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=20_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/antv.jpg?v=1.1.3.5",
-          "name": "ANTV",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=18_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/qpvn.jpg?v=1.1.3.5",
-          "name": "QPVN",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=141_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/qpvn.jpg?v=1.1.3.5",
-          "name": "QPVN HD",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=141_3&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/quochoi.jpg?v=1.1.3.5",
-          "name": "QUOC HOI",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=180_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/hanoi1.jpg?v=1.1.3.7",
-          "name": " HANOI 1",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=9_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/hanoi2.jpg?v=1.1.3.7",
-          "name": " HANOI 2",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=10_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://cuocthianh.nhalanoi.com/files/weblinks/logo-hitv-2.png",
-          "name": " HITV Hanoicab1",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=52_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://youtv.vn/images/logo.png",
-          "name": " YOU Hanoicab2",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=50_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://i.imgur.com/KaVSxXc.png",
-          "name": " MOVHD Hanoicab4",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=30_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/htv-phim.png",
-          "name": " HTVC PHIM",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=31_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/htv-phim.png",
-          "name": " HTVC PHIM HD",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=159_3&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/htv-thuanviet.png",
-          "name": " HTVC THUAN VIET",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=57_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/fbnc.png",
-          "name": " HTVC FBNC HD",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=177_3&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/htv-dulich.png",
-          "name": "HTVC Dulich",
-          "url": "http://m.xemtivimienphi.com/htv-dulich-3.php",
-          "webviewType": "chrome",
-          "embed": true
-        },
-        {            
-          "image": "http://www.xemtivimienphi.com/image/htv-canhac.png",
-          "name": " HTVC CA NHAC",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=58_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/htv-phunu.png",
-          "name": " HTVC PHU NU",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=56_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/htv-giadinh.png",
-          "name": " HTVC GIA DINH",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=59_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/htv-thethao.png",
-          "name": " HTVC THE THAO",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=37_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {            
-          "image": "http://tv.vnoo.net/img/vtc1.jpg?v=1.1.3.5",
-          "name": "VTC1",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=150_3&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/vtc2.jpg?v=1.1.3.5",
-          "name": "VTC2",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=181_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://www.xemtivimienphi.com/image/vtc3hd.png",
-          "name": "VTC3 HD",
-          "url": "http://www.xemtivimienphi.com/xem-tivi-vtc3-hd-truc-tuyen-kenh-vtc3-hd-live.html",
-          "referrer":"http://m.xemtivimienphi.com/vtc3.php",
-          "isHost" : true
-        },
-        {
-          "image": "http://tv.vnoo.net/img/vtc4.jpg?v=1.1.3.5",
-          "name": "VTC4",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=46_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/vtc5.jpg?v=1.1.3.5",
-          "name": "VTC5",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=28_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/vtc6.jpg?v=1.1.3.5",
-          "name": "VTC6",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=29_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/vtc7.jpg?v=1.1.3.5",
-          "name": "VTC7",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=47_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/vtc8.jpg?v=1.1.3.5",
-          "name": "VTC8",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=14_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/vtc9.jpg?v=1.1.3.5",
-          "name": "VTC9",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=48_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/vtc10.jpg?v=1.1.3.5",
-          "name": "VTC10",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=15_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/vtc11.jpg?v=1.1.3.5",
-          "name": "VTC11",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=72_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/vtc13.jpg?v=1.1.3.5",
-          "name": "VTC13",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=152_3&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/vtc14.jpg?v=1.1.3.5",
-          "name": "VTC14",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=16_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://tv.vnoo.net/img/vtc16.jpg?v=1.1.3.5",
-          "name": "VTC16",
-          "url": "http://apps2.101vn.com/app/code/nextbet.php?id=17_2&token=(*)j(TwNTo0O9}[gwOjEyY2(*)6OTViZjo3Z9}NjOmU4YTB-6Nz(*)0Z9}o2(*)T[g0&st=(*)9}Ev(*)z[gv(*)j[gxO{O[gxOToy(*)[g&sv=5",
-          "userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
-        },
-        {
-          "image": "http://i.imgur.com/eG7NOxH.png",
-          "name": "Natgeo",
-          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1137107803735&idkenh=neogeo",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-          "image": "https://lh3.googleusercontent.com/-n3TK4lu50iE/VpxAZhcZ5gI/AAAAAAAAAK8/_glZ-AAcAa0/h120/discovery(1).png",
-          "name": "Discovery",
-          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1137116585559&idkenh=discovery",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {           
-          "image": "http://xemtvonline.net/hinh/animal.png",
-          "name": "Animalplanet",
-          "url": "http://www.xemtvonline.net/xem-kenh-tivi-animal-truc-tuyen-truc-tiep.html",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
- 
-          "image": "https://lh3.googleusercontent.com/-XP11Cu7D2MM/WYrbVnEeCvI/AAAAAAAADmw/eSDtWChRMLoPEdZTYcz8ebEMBYXOE_YyQCLcBGAs/h120/davincilearning.png",
-          "name": "Davinci",
-          "url": "http://sv.tvmienphi.net/ok/world/davinci1.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
+#EXTM3U Phongnt - Acestream - update theo trận    
 
-          "image": "https://lh3.googleusercontent.com/-ESIxK612-nM/WYrZ2vGnMjI/AAAAAAAADmk/F6oAbdr0-eMSk19Zokifoop8Mq83KfHcwCLcBGAs/h120/DIVA-logo.png",
-          "name": "Diva",
-          "url": "http://sv.tvmienphi.net/ok/world/diva1.php",
-         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-          "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1515739984/cmc_new/img.live_channel/0/0/0/0/219.jpg",
-          "name": "Fox Movies s1",
-          "url": "http://bat.nhanhtv.com/menh1.php?sv=starmovies",
-         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-          "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1515739984/cmc_new/img.live_channel/0/0/0/0/219.jpg",
-          "name": "Fox Movies s2",
-          "url": "http://sv.tvmienphi.net/ok/world/starmovies11.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-         "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
-          "name": "HBO SD S1",
-          "url": "http://data.xemtiviso.net/live/quocte/hbo1.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-	{
-         "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
-          "name": "HBO SD S2",
-          "url": "http://data.xemtiviso.net/live/quocte/hbo2.php",
-         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-	{
-          "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
-          "name": "HBO HD S1",
-          "url": "http://m.xemtivionline.net/hbo.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-	{
-          "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
-          "name": "HBO HD S2",
-          "url": "http://m.xemtvtructuyen.net/hbo.php",
-         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-	{
-          "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
-          "name": "HBO HD S3",
-          "url": "http://m.xemtvtructuyen.net/hbo-4.php",
-         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-          "image": "https://lh3.googleusercontent.com/-W0nJPWHMsxU/W1iti8X3vmI/AAAAAAAAEIQ/w0xEMSsV6HwFUTqcIgoZgTLNRdEN-ep5ACEwYBhgL/w140-h70-p/redhbovip.png",
-          "name": "Red by HBO",
-          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1120201940567&idkenh=redhbo",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-          "image": "https://lh3.googleusercontent.com/-eMIcL7uB5ZA/WYq33-BDMkI/AAAAAAAADlM/sq5L2k6vZUcqANUC1YDtnYXgjhAspUkUACEwYBhgL/w140-h66-p/9740642-logo-max-by-hbo.png",
-          "name": "Max by HBO",
-          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1120201088599&idkenh=cinemax",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-          "image": "http://i.imgur.com/LUZ6MpD.png",
-          "name": "AXN s1",
-          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1131717860951&idkenh=axn",
-         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-          "image": "http://i.imgur.com/LUZ6MpD.png",
-          "name": "AXN s2",
-          "url": "http://data.xemtivinet.net/live/quocte/axn.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-          "image": "https://lh3.googleusercontent.com/-SSNrUI2r1jA/WYrQnrfBAgI/AAAAAAAADmA/LK-p2Ar3oTs7s5mCXKgnhQ01OBmQbdx-ACLcBGAs/h120/614-cinema-world-on-demand.png",
-          "name": "Cinema World",
-          "url": "http://m.tivionlinehd.net/cinemax-2.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-         },
-         {
-          "image": "https://imgur.com/LsOkH5s.png",
-          "name": "Fox life",
-          "url": "http://m.tivi12h.net/star-world-2.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-          "image": "https://imgur.com/pycFGMd.png",
-          "name": "Disney",
-          "url": "http://m.tivionlinehd.net/disney.php",
-         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-        {
-          "image": "https://imgur.com/5F7FNTO.png",
-          "name": "Cartoon",
-          "url": "http://m.tivionlinehd.net/carton-cn-2.php",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "isHost": true
-        },
-   
-    {
-      "name": "Web Movies - Server 1 (subViet)",
-      "image": "https://i.postimg.cc/zXndkQ3Q/Movies.png",
-      "stations": [
-        {
-          "image": "https://vnreview.vn/image/18/17/88/1817886.jpg",
-          "name": "Phim Mới chấm Net",
-          "url": "http://www.phimmoi.net/phim-le/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-	{
-          "image": "https://fimfast.com/assets/img/logo.png",
-          "name": "Phim Fast chấm Com",
-          "url": "https://fimfast.com/phim-le",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-	{
-          "image": "https://fptplay.net/img/new_footer/logo-8-3.png",
-          "name": "FPTplay - Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
-          "url": "https://fptplay.vn/danh-muc/5841452d17dc130a9ab827d4/phim-le.html",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "http://static.hplus.com.vn/themes/front/images/logohtvc.png",
-          "name": "Hplus - Mở phim cần xem để get link> click play (góc trên cùng bên phải màn hình) để xem phim",
-          "url": "http://hplus.com.vn/phim-le",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://lh3.googleusercontent.com/xxpCAoP8E-NQLE3s48HgsI1X4A1-6caAeZXK5wHVucOoLVRr--kLgiZJbsdsOewazFo=s180",
-          "name": "VTV giải trí - Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) > thưởng thức !",
-          "url": "https://www.vtvgiaitri.vn/genre/phim",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "http://goophim.com/img/logo_goophim.png",
-          "name": "Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
-          "url": "http://goophim.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "http://phimnhanh.com/favicon.ico",
-          "name": "Phimnhanh.com: Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
-          "url": "http://kingmovie.tv/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://vuviphim.com/wp-content/uploads/2017/08/logo-vuviphim.png",
-          "name": "Mở phim cần xem > bấm xem phim để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
-          "url": "https://vuviphim.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "http://tvhay.org/favicon.ico",
-          "name": "Xem phim trên web TVhay.org (subViet): Chọn thể loại và phim cần xem > bấm xem phim và Chọn link (R.PRO hoặc VIP.D) để xem phim",
-          "url": "http://tvhay.org/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://aphim.tv/Theme/images/aphim-logo.png",
-          "name": "AphimTV (có phim +18): Mở phim cần xem > bấm xem phim để get link > click các biểu tượng play (góc trên cùng bên phải màn hình) để xem phim ",
-          "url": "https://aphim.tv/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "name": "topphimhd.com (có phim +18): Mở phim cần xem > bấm xem phim để get link > click các biểu tượng play (góc trên cùng bên phải màn hình) để xem phim",
-          "image": "http://topphimhd.com/wp-content/uploads/2018/04/favicon.ico",
-          "url": "http://topphimhd.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "name": "iphim.vn: Mở phim cần xem > click các biểu tượng play (góc trên cùng bên phải màn hình) để xem phim",
-          "image": "http://iphim.vn/images/logo.png",
-          "url": "http://iphim.vn/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://woohay.com/data/logo.jpg",
-          "name": "woohay.com: chọn phim > bấm xem phim để get link > click play (góc trên cùng bên phải màn hình) > xem phim",
-          "url": "https://woohay.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "name": "hphim.tv: Chọn phim > bấm xem phim để get link. Xem phim bộ > bấm tập kế tiếp > click play (góc trên cùng bên phải màn hình) >thưởng thức!",
-          "image": "http://hphim.tv/favicon.png",
-          "url": "http://hphim.tv/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "name": "phimmedia.tv: Chọn phim > bấm xem phim để get link. Xem phim bộ > bấm tập kế tiếp > click play (góc trên cùng bên phải màn hình) >thưởng thức!",
-          "image": "https://www.phimmedia.tv/favicon.ico",
-          "url": "https://www.phimmedia.tv/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "name": "phim4k.net: Chọn phim > bấm xem phim để get link. Xem phim bộ > bấm tập kế tiếp > click play (góc trên cùng bên phải màn hình) >thưởng thức!",
-          "image": "http://phim4k.net/public/temp/img/logo2.png",
-          "url": "http://phim4k.net/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-         "image": "https://khoai.tv/desktop/assets/img/logo-top.png",
-          "name": "Xem phim từ khoai.tv: Chọn thể loại và mở phim cần xem > click to play để get link > click play (góc trên cùng bên phải màn hình) để thưởng thức",
-          "url": "https://khoai.tv/",
-          "webviewType": "chrome",
-          "embed": true
-        },
-        {
-          "name": "xemphimso.com: Chọn phim > bấm xem phim để get link. Xem phim bộ > bấm tập kế tiếp > click play (góc trên cùng bên phải màn hình) >thưởng thức!",
-          "image": "https://xemphimso.com/images/favicon.ico",
-          "url": "https://xemphimso.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        }
-      ]
-    },
-    {
-      "name": "Web Movies - Server 2",
-      "image": "https://i.postimg.cc/zXndkQ3Q/Movies.png",
-      "stations": [
-        {
-          "image": "https://4.bp.blogspot.com/-MTjaLP2o2ns/Wak3o6ECaBI/AAAAAAAAHdM/5RnyuQmWYXUlfM-E3QQN7z3mvvruwk9FQCPcBGAYYCw/s90/3%2B-%2Bs.png",
-          "name": "Phim server nước ngoài: Mở phim cần xem (có phim +18) > click play (trong hình chia) để get link > click biểu tượng play (góc trên cùng bên phải màn hình) để xem phim (có thể load hơi chậm)",
-          "url": "https://hdmovie8.com/release/2018/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png",
-          "name": "Youtube Video (nhạc & phim)",
-          "url": "http://phantruongphuc.com/tim-kiem/video/Phim%20Tam%20Ly.html",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "http://topphimhd.com/wp-content/uploads/2018/04/favicon.ico",
-          "name": "Movies 1",
-          "url": "http://s1.tinydl.info/Movies2/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "http://topphimhd.com/wp-content/uploads/2018/04/favicon.ico",
-          "name": "Movies 2",
-          "url": "http://dl8.heyserver.in/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "http://topphimhd.com/wp-content/uploads/2018/04/favicon.ico",
-          "name": "Movies Korea",
-          "url": "http://dl.farshow.ir/Series/Korea/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "http://www.hddocumentary.com/wp-content/uploads/2016/11/hddocumentary_logo.png",
-          "name": "Xem Phim Tài liệu: Chọn phim cần xem > bấm play trong Watch Video để get link > Click play (góc trên cùng bên phải màn hình ) để thưởng thức",
-          "url": "http://www.hddocumentary.com/",
-          "webviewType": "chrome",
-          "embed": true
-        }
-      ]
-    },
-    
-        ]
-    },
+#EXTINF:-1 tvg-id="Acestream" group-title="SPORTS" tvg-name="Canal+ Sport FR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a409.png",Canal+ Sport FR
+acestream://2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
+
+#EXTINF:-1,group-title="SPORTS",90PHUT Channel 1
+acestream://4875a901a224a950421c9cb2d60456bd820d6199
+#EXTINF:-1,group-title="SPORTS",90PHUT Channel 2
+acestream://4bc1bfdcc400164b7c8afd2644108dd3311e85eb
+#EXTINF:-1,group-title="SPORTS",90PHUT Channel 3
+acestream://e9ed9d82db929115c74f295e6c9503f47987635a
+#EXTINF:-1,group-title="SPORTS",90PHUT Channel 4
+acestream://9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
+#EXTINF:-1,group-title="SPORTS",90PHUT Channel 5
+acestream://fbda842baf2646ce181a6560cfa3fe453c11991f
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 1 DE FHD
+acestream://c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 1 AU FHD
+acestream://f1eb19e0733f7be5546a09f2aa89ff6b4d986767
+#EXTINF:-1 group-title="SPORTS",DAZN 1 HD
+acestream://9c2a1031d972cb21e51d8ff6cf95a38d98b8f87e
+#EXTINF:-1 group-title="SPORTS",DAZN 2 HD
+acestream://699ed54b2a140b7d75ba06ecbe8c578e079b8db2
+#EXTINF:-1 group-title="SPORTS",Матч ТВ FHD
+acestream://c7f93329f3790d54491fe2c4146b59d0514d38b8
+#EXTINF:-1 group-title="SPORTS",Матч! Футбол 1 FHD
+acestream://dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
+#EXTINF:-1 group-title="SPORTS",Матч! Футбол 2 FHD
+acestream://cfc79383b29505fe88c4875e4997cbfce1a5196f
+#EXTINF:-1 group-title="SPORTS",Матч! Футбол 3 FHD
+acestream://b120fc00572b516163aaa624f0d1ba095af58f9a
+#EXTINF:-1 group-title="SPORTS",Sport TV3 PT
+acestream://7abfed961d37a0aae62097ac6ac5678dbeeef8bd
+#EXTINF:-1 group-title="4K",Now Sports 4K
+acestream://f6ae5119f9281cdc920d49248f46fc5431f70673
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="BT Sport 1" tvg-logo="https://i.imgur.com/7NkGKmP.png",BT SPORT 1 FHD
+acestream://41f81707796e0a76cd47d4deacab53331c6091d1
+#EXTINF:-1 group-title="SPORTS" tvg-id="BT Sport 2" tvg-logo="https://i.imgur.com/O18RDU9.png",BT SPORT 2 FHD
+acestream://9bc99fe1f47cff0083ef12cf5528da13bdf868d0
+#EXTINF:-1 group-title="SPORTS" tvg-id="Canal+ sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Sport_2015.png/400px-Canal%2B_Sport_2015.png",CANAL+ SPORT FHD
+acestream://2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sport TV + HD" tvg-logo="http://163.172.96.72/picon/SPORT%20TV+.png",Sport TV + HD
+acestream://5d6dbf22214c1a0118e9f4a8d5fe7f4ccf3f3886
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sport TV 1 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png",SPORT TV1 FHD
+acestream://d027b34465b1ed60b45819ac6bf12070dab3d1ee
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sport TV 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png",SPORT TV2 FHD
+acestream://6fae558689a5045dd02409711fa3b9bd2a8678dd
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sport TV 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png",SPORT TV3 FHD
+acestream://7abfed961d37a0aae62097ac6ac5678dbeeef8bd
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sport TV 4 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png",SPORT TV4 FHD
+acestream://e09a642d1b3d7ff62fe6838b84b007f5f2f90475
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.imgbin.com/11/9/23/imgbin-setanta-sports-logo-television-brand-geography-history-armenian-U8vxbrYFGSShKhnRHaCP7Z607.jpg",SETANTA SPORT UA FHD
+acestream://4b7b97e7e516eb1e2375c8d026c2ea5aac0d4d26
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.arax.md/assets/SPORTS/519.png",SETANTA SPORT+ UA FHD
+acestream://eb44e7bd39a1c6bb73a0ab62baa8ae7965d0811f
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="МАТЧ! HD" tvg-logo="http://hoaivnpt.duckdns.org/icon/MatchTV.png",Матч! FHD
+acestream://c7f93329f3790d54491fe2c4146b59d0514d38b8
+#EXTINF:-1 group-title="SPORTS" tvg-id="МАТЧ ПРЕМЬЕР HD" tvg-logo="http://hoaivnpt.duckdns.org/icon/Match Premier.png",Матч! Премьер FHD
+acestream://513dabafb21429d6eff9813022b2d41f49dc5bdb
+#EXTINF:-1 group-title="SPORTS" tvg-id="МАТЧ! Футбол 1 (HD)" tvg-logo="http://hoaivnpt.duckdns.org/icon/Match Futbol 1.png",Матч! Футбол 1 FHD
+acestream://dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
+#EXTINF:-1 group-title="SPORTS" tvg-id="МАТЧ! Футбол 2 (HD)" tvg-logo="http://hoaivnpt.duckdns.org/icon/Match Futbol 2.png",Матч! Футбол 2 FHD
+acestream://cfc79383b29505fe88c4875e4997cbfce1a5196f
+#EXTINF:-1 group-title="SPORTS" tvg-id="МАТЧ! Футбол 3 (HD)" tvg-logo="http://hoaivnpt.duckdns.org/icon/Match Futbol 3.png",Матч! Футбол 3 FHD
+acestream://b120fc00572b516163aaa624f0d1ba095af58f9a
+
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 1 HU FHD
+acestream://467b8af5fb3f51bb46632ddc9e5f4bc3fd6bc399
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 2 HU FHD
+acestream://96301308f598c999279e27d035cfd78d4ec46546
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 3 HU FHD
+acestream://5ad076155333ea8f362bf66300333b64a3151e26
+
+#EXTINF:-1 group-title="SPORTS",ZIGGO SPORT SELECT FHD
+acestream://38d77beafa2a8763686f76576480e9f73d9ae3e6
+#EXTINF:-1 group-title="SPORTS",PREMIER SPORT CZ HD
+acestream://b0b2db107f292437139d735b469df71c8a553f46
+
+#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 1 FHD
+acestream://5f7ba5cddba6d44435b75e28649b00393bbf2dc4
+#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 2 FHD
+acestream://572880fd38805efc2d5c9fa72a72669a00583808
+#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 3 FHD
+acestream://d7f042a816012aaa4898b1f56107a2c13c7df323
+#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 4 FHD
+acestream://0e86afa4f4aea82b00e527967eec9dc938ded8c1
+
+#EXTINF:-1 group-title="SPORTS",MOVISTAR LALIGA FHD
+acestream://9007568a18c3a3c89fb9e745206a60554c114917
+#EXTINF:-1 group-title="SPORTS",MOVISTAR LIGA DE CAMPEONES FHD
+acestream://b0aa6d932aaf12452c91ed5fb07642c6a31394d7
+#EXTINF:-1 group-title="SPORTS",MOVISTAR DEPORTES FHD
+acestream://57fb15b9403695ef6eaa79699a7ea5c374e4fa2f
+#EXTINF:-1 group-title="SPORTS",MOVISTAR GOLF FHD
+acestream://b93ec5d6adee1c59192ae9811b0d5df66adc29af
+#EXTINF:-1 group-title="SPORTS",MOVISTAR TOROS FHD
+acestream://a6b3bd14c848f9b9573cbc52e08dca6b76059349
+#EXTINF:-1 group-title="SPORTS",MOVISTAR FORMULA 1 FHD
+acestream://00e0f5e4990c1177512fed77430a9c3f945b4893
+
+#EXTINF:-1 group-title="SPORTS",SPORT 1 IL HD
+acestream://1885e9bcdda920291dd640c32ac3b137dc7a7b95
+#EXTINF:-1 group-title="SPORTS",SPORT 2 IL HD
+acestream://d342fee30beccf53f2563f5b81e4e909e57202bf
+#EXTINF:-1 group-title="SPORTS",SPORT 3 IL HD
+acestream://9ba8774882f10a28c986644f0aaff997e3fb3ca9
+#EXTINF:-1 group-title="SPORTS",SPORT 4 IL HD
+acestream://5bfbc045dab5bf27841aeae8b1d1f1a111dd1799
+#EXTINF:-1 group-title="SPORTS",SPORT 5 (5 STARS) IL HD
+acestream://347750a65beffd8f53245fe784fd399abf09b124
+#EXTINF:-1 group-title="SPORTS",SPORT 5+ (5 LIVE) IL HD
+acestream://f25827c9d236a4ec19cd49394e495928dd7813da
+
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 1 RO FHD
+acestream://c575315526a0b6a1a75bd6ebe548b62b7dc50a82
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 2 RO FHD
+acestream://3b3d22e60aa72aff95a92e7667878f63ba898a50
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 3 RO HD
+acestream://d7dc8278134b0f04bce75fca7826ba3f6121381b
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 4 RO HD
+acestream://ede354f7f0ca2009484a0795180031d24ffeec9d
+
+#EXTINF:-1 group-title="SPORTS",TV3 SPORT FHD
+acestream://024526a5659202ec13b077f21ea8e6044d6d7df2
+#EXTINF:-1 group-title="SPORTS",TV3 SPORT 2 FHD
+acestream://8172d547d41ff1b8b30ec3f39601ca96269c6d43
+
+#EXTINF:-1 group-title="SPORTS",NOVA SPORT 1 CZ FHD
+acestream://d8c921e06e63427c97f423a4cdd63af05cc04f6e
+#EXTINF:-1 group-title="SPORTS",NOVA SPORT 2 CZ FHD
+acestream://ecb8eaa3013119be6707cc16540ad455db33a512
+
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 1 DE FHD
+acestream://c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 1 AU FHD
+acestream://f1eb19e0733f7be5546a09f2aa89ff6b4d986767
+
+#EXTINF:-1 group-title="SPORTS",SPORT 1 CZ FHD
+acestream://80c56f650421f104181a46a5d318584f3d9b64eb
+#EXTINF:-1 group-title="SPORTS",SPORT 2 CZ FHD
+acestream://b4a583fac6636b17823c327252dd7640a8d64f3d
+
+#EXTINF:-1 group-title="SPORTS",SPORT 1 HU FHD
+acestream://fd32c653e3e913a1ee8d654dafbfab9d86a464eb
+#EXTINF:-1 group-title="SPORTS",ARENA SPORT 1 SK FHD
+acestream://e4c0aff2c98cc3bd09f678325ae09d8d560f2705
+
+#EXTINF:-1 group-title="SPORTS",FORMULA 1 FHD
+acestream://00e0f5e4990c1177512fed77430a9c3f945b4893
+#EXTINF:-1 group-title="SPORTS",NBA TV FHD
+acestream://eb24f16f4c86976dfa96b928789bd2db4dcf15b7'."\n";
+
+echo '#EXTINF:-1 group-title="SPORTS" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",PIMPLETV 1 HD 50FPS
+acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",PIMPLETV 2 HD 50FPS
+acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",PIMPLETV 3 HD 50FPS
+acestream://d2a36e305458e200c2a4952317fc33e38bd80187
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",PIMPLETV 4 FHD 50FPS EPL
+acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",PIMPLETV 5 FHD 50FPS EPL
+acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-streaming-media-samsung-galaxy-s8-most-best-android-leaf-logo-thumbnail.png",ACETOP 1 HD 50FPS
+acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-streaming-media-samsung-galaxy-s8-most-best-android-leaf-logo-thumbnail.png",ACETOP 2 HD 50FPS
+acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-streaming-media-samsung-galaxy-s8-most-best-android-leaf-logo-thumbnail.png",ACETOP 3 HD 50FPS
+acestream://2743fd284cad79cd23afc31848091b28d5929020
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-streaming-media-samsung-galaxy-s8-most-best-android-leaf-logo-thumbnail.png",ONLINE 1 HD 50FPS EPL
+acestream://78637dab85e7948057165ad0c80b3db475dd9c3d
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-streaming-media-samsung-galaxy-s8-most-best-android-leaf-logo-thumbnail.png",ONLINE 2 HD 50FPS
+acestream://65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-streaming-media-samsung-galaxy-s8-most-best-android-leaf-logo-thumbnail.png",ONLINE 3 FHD 50FPS
+acestream://5f569f3ecf8b4d2f2f4bc732dd7023568f76e4a9
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-streaming-media-samsung-galaxy-s8-most-best-android-leaf-logo-thumbnail.png",SRACHTV 1 HD
+acestream://2ec1a0ea283c31b2960e0e64294ca82139a34a1a
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-streaming-media-samsung-galaxy-s8-most-best-android-leaf-logo-thumbnail.png",SRACHTV 2 HD
+acestream://709a34c74a31dc03c1ccf20935b63f0c06fd37e8
