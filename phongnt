@@ -190,9 +190,8 @@ https://360funnysport.000webhostapp.com/360sport/mitom_get.php?url=https://thuck
 #EXTINF:-1, group-title="Internet" tvg-logo="https://mitomtv.link/wp-content/uploads/2021/06/mitomtv-link-logo.png",22:30-26/09:  Arsenal - Tottenham
 https://360funnysport.000webhostapp.com/360sport/mitom_get.php?url=https://thuckhuyalive.net/lives/arsenal-vs-tottenham-luc-2230-ngay-26-09/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
 
-#EXTINF:-1 group-title="Sport" tvg-id="bein1" tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg",BEIN SPORTS 1
+#EXTINF:-1 group-title="Internet" tvg-id="bein1" tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg",BEIN SPORTS 1
 https://360funnysport.000webhostapp.com/360sport/sportchannels/playlist.php?id=bein1english1
-#EXTINF:-1 group-title="Sport" tvg-id="bein1pre" tvg-logo="https://banner2.cleanpng.com/20180713/irc/kisspng-ultimate-fighting-championship-bt-sport-espn-telev-tv-channel-5b48e81c567dc2.5862355215315046683543.jpg",BT SPORT ESPN
-https://360funnysport.000webhostapp.com/360sport/sportchannels/playlist.php?id=btsportespn
-#EXTINF:-1 group-title="Sport" tvg-id="sporttv" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png",Sport TV+2
+
+#EXTINF:-1 group-title="Internet" tvg-id="sporttv" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png",Sport TV+2
 https://360funnysport.000webhostapp.com/360sport/sportchannels/playlist.php?id=sporttv2
