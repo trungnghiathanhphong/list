@@ -13,6 +13,12 @@ acestream://e9ed9d82db929115c74f295e6c9503f47987635a
 acestream://9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
 #EXTINF:-1,group-title="SPORTS",90PHUT Channel 5
 acestream://fbda842baf2646ce181a6560cfa3fe453c11991f
+#EXTINF:-1 group-title="SPORTS", Bóng Đá TV
+acestream://c1ffa1f05031239da527941f4d4d325c3f57ce35
+#EXTINF:-1 group-title="SPORTS", Thể Thao TV
+acestream://bed83ff3ace26c124e8d93a7e072e202e1272fbc
+#EXTINF:-1 group-title="SPORTS",VTVcab 6 - On Sports
+acestream://cb6a79de6168e04c641a62c19bb1abadee70e08d
 #EXTINF:-1 group-title="SPORTS",SKY SPORT 1 DE FHD
 acestream://c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
 #EXTINF:-1 group-title="SPORTS",SKY SPORT 1 AU FHD
@@ -182,4 +188,80 @@ acestream://5f569f3ecf8b4d2f2f4bc732dd7023568f76e4a9
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-streaming-media-samsung-galaxy-s8-most-best-android-leaf-logo-thumbnail.png",SRACHTV 1 HD
 acestream://2ec1a0ea283c31b2960e0e64294ca82139a34a1a
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/185/209/png-clipart-ace-stream-streaming-media-samsung-galaxy-s8-most-best-android-leaf-logo-thumbnail.png",SRACHTV 2 HD
+acestream://709a34c74a31dc03c1ccf20935b63f0c06fd37e8
+
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",PIMPLETV 1 HD 50FPS
+acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",PIMPLETV 2 HD 50FPS
+acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
+
+
+
+
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",PIMPLETV 3 HD 50FPS
+acestream://d2a36e305458e200c2a4952317fc33e38bd80187
+
+
+
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",PIMPLETV 4 FHD 50FPS EPL
+acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",PIMPLETV 5 FHD 50FPS EPL
+acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+
+
+
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",ACETOP 1 HD 50FPS
+acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",ACETOP 2 HD 50FPS
+acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",ACETOP 3 HD 50FPS
+acestream://2743fd284cad79cd23afc31848091b28d5929020
+
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",ONLINE 1 HD 50FPS EPL
+acestream://78637dab85e7948057165ad0c80b3db475dd9c3d
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",ONLINE 2 HD 50FPS
+acestream://65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",ONLINE 3 FHD 50FPS
+acestream://5f569f3ecf8b4d2f2f4bc732dd7023568f76e4a9
+
+
+
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",SRACHTV 1 HD
+acestream://2ec1a0ea283c31b2960e0e64294ca82139a34a1a
+
+
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",SRACHTV 2 HD
+acestream://709a34c74a31dc03c1ccf20935b63f0c06fd37e8
+
+
+
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",PIMPLETV 1 HD 50FPS
+acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",PIMPLETV 2 HD 50FPS
+acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",PIMPLETV 3 HD 50FPS
+acestream://d2a36e305458e200c2a4952317fc33e38bd80187
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",PIMPLETV 4 FHD 50FPS EPL
+acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",PIMPLETV 5 FHD 50FPS EPL
+acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",ACETOP 1 HD 50FPS
+acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",ACETOP 2 HD 50FPS
+acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",ACETOP 3 HD 50FPS
+acestream://2743fd284cad79cd23afc31848091b28d5929020
+
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",ONLINE 1 HD 50FPS EPL
+acestream://78637dab85e7948057165ad0c80b3db475dd9c3d
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",ONLINE 2 HD 50FPS
+acestream://65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",ONLINE 3 FHD 50FPS
+acestream://5f569f3ecf8b4d2f2f4bc732dd7023568f76e4a9
+
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",SRACHTV 1 HD
+acestream://2ec1a0ea283c31b2960e0e64294ca82139a34a1a
+#EXTINF:-1 group-title="LIVE KHI CÓ BÓNG",SRACHTV 2 HD
 acestream://709a34c74a31dc03c1ccf20935b63f0c06fd37e8
