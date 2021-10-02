@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="Acestream" group-title="SPORTS" tvg-name="Canal+ Sport FR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a409.png",Canal+ Sport FR
 http://127.0.0.1:6878/ace/getstream?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
+#EXTINF:-1  tvg-id="SkySportBundesliga" tvg-logo="https://cdn.images.express.co.uk/img/dynamic/59/590x/secondary/Sky-Q-Silver-Sky-in-Ultra-HD-Watch-4K-on-Sky-Watch-Ultra-HD-How-To-Enable-4K-Content-on-Sky-Watch-Sky-UHD-Content-How-to-Watch-S-622462.jpg",Sky Sport Bundesliga 4K
+http://127.0.0.1:6878/ace/getstream?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
 
 #EXTINF:-1,group-title="SPORTS",90PHUT Channel 1
 acestream://4875a901a224a950421c9cb2d60456bd820d6199
