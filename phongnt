@@ -175,7 +175,7 @@ http://127.0.0.1:6878/ace/getstream?id=fbda842baf2646ce181a6560cfa3fe453c11991f
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bong-da-tv-logo.png", Bóng Đá TV
 http://127.0.0.1:6878/ace/getstream?id=c1ffa1f05031239da527941f4d4d325c3f57ce35
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-the-thao-tv.png", Thể Thao TV
-acestream://bed83ff3ace26c124e8d93a7e072e202e1272fbc
+http://127.0.0.1:6878/ace/getstream?id=bed83ff3ace26c124e8d93a7e072e202e1272fbc
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/62c9cab3-5e04-4098-851e-590d52e43466.jpg",VTVcab 6 - On Sports
 http://127.0.0.1:6878/ace/getstream?id=cb6a79de6168e04c641a62c19bb1abadee70e08d
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png",SKY SPORT 1 DE FHD
