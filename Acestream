@@ -1,7 +1,7 @@
 #EXTM3U Phongnt - Acestream - update theo trận    
 
 #EXTINF:-1 tvg-id="Acestream" group-title="SPORTS" tvg-name="Canal+ Sport FR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a409.png",Canal+ Sport FR
-acestream://2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
+http://127.0.0.1:6878/ace/getstream?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
 
 #EXTINF:-1,group-title="SPORTS",90PHUT Channel 1
 acestream://4875a901a224a950421c9cb2d60456bd820d6199
@@ -20,7 +20,7 @@ acestream://bed83ff3ace26c124e8d93a7e072e202e1272fbc
 #EXTINF:-1 group-title="SPORTS",VTVcab 6 - On Sports
 acestream://cb6a79de6168e04c641a62c19bb1abadee70e08d
 #EXTINF:-1 group-title="SPORTS",SKY SPORT 1 DE FHD
-acestream://c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
+http://127.0.0.1:6878/ace/getstream?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
 #EXTINF:-1 group-title="SPORTS",SKY SPORT 1 AU FHD
 acestream://f1eb19e0733f7be5546a09f2aa89ff6b4d986767
 #EXTINF:-1 group-title="SPORTS",DAZN 1 HD
