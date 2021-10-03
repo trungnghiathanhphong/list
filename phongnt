@@ -156,51 +156,51 @@ udp://@225.1.1.236:30120
 
 #EXTINF:-1 tvg-id="Acestream" group-title="SPORTS" tvg-id="sporttv" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png",Sport TV+2
 https://360funnysport.000webhostapp.com/360sport/sportchannels/playlist.php?id=sporttv2
-
 #EXTINF:-1 tvg-id="Acestream" group-title="SPORTS" tvg-name="Canal+ Sport" tvg-logo="https://img.sport-tv-guide.live/images/stations/a409.png",Canal+ Sport
-http://127.0.0.1:6878/ace/getstream?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
+http://127.0.0.1:6878/ace/manifest.m3u8?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
 
 #EXTINF:-1,group-title="SPORTS" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 1
-http://127.0.0.1:6878/ace/getstream?id=4875a901a224a950421c9cb2d60456bd820d6199
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4875a901a224a950421c9cb2d60456bd820d6199
 #EXTINF:-1,group-title="SPORTS" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 2
-http://127.0.0.1:6878/ace/getstream?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
 #EXTINF:-1,group-title="SPORTS" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 3
-http://127.0.0.1:6878/ace/getstream?id=e9ed9d82db929115c74f295e6c9503f47987635a
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e9ed9d82db929115c74f295e6c9503f47987635a
 #EXTINF:-1,group-title="SPORTS" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 4
-http://127.0.0.1:6878/ace/getstream?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
 #EXTINF:-1,group-title="SPORTS" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 5
-http://127.0.0.1:6878/ace/getstream?id=fbda842baf2646ce181a6560cfa3fe453c11991f
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fbda842baf2646ce181a6560cfa3fe453c11991f
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bong-da-tv-logo.png", Bóng Đá TV
-http://127.0.0.1:6878/ace/getstream?id=c1ffa1f05031239da527941f4d4d325c3f57ce35
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c1ffa1f05031239da527941f4d4d325c3f57ce35
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-the-thao-tv.png", Thể Thao TV
-http://127.0.0.1:6878/ace/getstream?id=bed83ff3ace26c124e8d93a7e072e202e1272fbc
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bed83ff3ace26c124e8d93a7e072e202e1272fbc
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/62c9cab3-5e04-4098-851e-590d52e43466.jpg",VTVcab 6 - On Sports
-http://127.0.0.1:6878/ace/getstream?id=cb6a79de6168e04c641a62c19bb1abadee70e08d
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cb6a79de6168e04c641a62c19bb1abadee70e08d
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png",SKY SPORT 1 DE FHD
-http://127.0.0.1:6878/ace/getstream?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",SKY SPORT 1 AU FHD
-http://127.0.0.1:6878/ace/getstream?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="Sky Sport 1 HD" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png",SKY SPORT 1 FHD
-http://127.0.0.1:6878/ace/getstream?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="Sky Sport Austria 1 HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",SKY SPORT AUSTRIA 1 FHD
-http://127.0.0.1:6878/ace/getstream?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",SKY SPORT BUNDESLIGA 1 FHD
-http://127.0.0.1:6878/ace/getstream?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
+http://127.0.0.1:6878/ace/manifest.m3u8?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
 #EXTINF:-1  tvg-id="Acestream" group-title="SPORTS" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png",Sky Sport
-http://127.0.0.1:6878/ace/getstream?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
+http://127.0.0.1:6878/ace/manifest.m3u8?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
 #EXTINF:-1 group-title="SPORTS" tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png",DAZN 1 HD
-http://127.0.0.1:6878/ace/getstream?id=9c2a1031d972cb21e51d8ff6cf95a38d98b8f87e
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9c2a1031d972cb21e51d8ff6cf95a38d98b8f87e
 #EXTINF:-1 group-title="SPORTS" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.jpg",DAZN 2 HD
-http://127.0.0.1:6878/ace/getstream?id=699ed54b2a140b7d75ba06ecbe8c578e079b8db2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=699ed54b2a140b7d75ba06ecbe8c578e079b8db2
 #EXTINF:-1 group-title="SPORTS" tvg-id="МАТЧ! Футбол 1 (HD)" tvg-logo="http://static.cdn.megafon.tv/images/Channel/11/41/abb8aa396654465dcf324c7991c468bf50cf/logo_poster__web.png",Маtch Futbol 1 FHD
-http://127.0.0.1:6878/ace/getstream?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
+http://127.0.0.1:6878/ace/manifest.m3u8?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
 #EXTINF:-1 group-title="SPORTS" tvg-id="МАТЧ! Футбол 2 (HD)" tvg-logo="https://s3.beelinetv.uz/buz-production/d8e6b6011b2444641a9d.png",Маtch Futbol 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
 #EXTINF:-1 group-title="SPORTS" tvg-id="МАТЧ! Футбол 3 (HD)" tvg-logo="https://www.skylink.rt.lc/wp-content/uploads/2020/02/160-%D0%9C%D0%90%D0%A2%D0%A7-%D0%A4%D0%A3%D0%A2%D0%91%D0%9E%D0%9B-3-HD.png",Маtch Futbol 3 FHD
-http://127.0.0.1:6878/ace/getstream?id=b120fc00572b516163aaa624f0d1ba095af58f9a
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b120fc00572b516163aaa624f0d1ba095af58f9a
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://www.bitrefill.com/content/cn/b_rgb%3AFFFFFF%2Cc_pad%2Ch_600%2Cw_1200/v1556811703/movistar.jpg",MOVISTAR LALIGA FHD
-http://127.0.0.1:6878/ace/getstream?id=9007568a18c3a3c89fb9e745206a60554c114917
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9007568a18c3a3c89fb9e745206a60554c114917
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Movistar_laliga_1.png",MOVISTAR LIGA DE CAMPEONES FHD
-http://127.0.0.1:6878/ace/getstream?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
 #EXTINF:-1 tvg-id="Fashion TV HD" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV HD
-http://127.0.0.1:6878/ace/getstream?id=cf1edf22ab813daf05caa9d415087e29e5865b21
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cf1edf22ab813daf05caa9d415087e29e5865b21
+
