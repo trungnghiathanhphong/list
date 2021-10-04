@@ -186,7 +186,7 @@ http://localhost:6878/ace/manifest.m3u8?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9
 http://localhost:6878/ace/manifest.m3u8?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="МАТЧ! Футбол 3 (HD)" tvg-logo="https://www.skylink.rt.lc/wp-content/uploads/2020/02/160-%D0%9C%D0%90%D0%A2%D0%A7-%D0%A4%D0%A3%D0%A2%D0%91%D0%9E%D0%9B-3-HD.png",Маtch Futbol 3 FHD
 http://localhost:6878/ace/manifest.m3u8?id=b120fc00572b516163aaa624f0d1ba095af58f9a
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gố" tvg-id="МАТЧ! Футбол 3 (HD)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png",Match Premier FHD
+#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="МАТЧ! Футбол 3 (HD)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png",Match Premier FHD
 http://localhost:6878/ace/getstream?id=513dabafb21429d6eff9813022b2d41f49dc5bdb
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://www.bitrefill.com/content/cn/b_rgb%3AFFFFFF%2Cc_pad%2Ch_600%2Cw_1200/v1556811703/movistar.jpg",MOVISTAR LALIGA FHD
 http://localhost:6878/ace/manifest.m3u8?id=9007568a18c3a3c89fb9e745206a60554c114917
