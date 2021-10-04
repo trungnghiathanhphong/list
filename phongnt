@@ -169,6 +169,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=e9ed9d82db929115c74f295e6c9503f479876
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
 #EXTINF:-1,group-title="SPORTS" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 5
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fbda842baf2646ce181a6560cfa3fe453c11991f
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bong-da-tv-logo.png", Bóng Đá TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c1ffa1f05031239da527941f4d4d325c3f57ce35
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-the-thao-tv.png", Thể Thao TV
@@ -179,6 +180,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=cb6a79de6168e04c641a62c19bb1abadee70e
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",SKY SPORT 1 AU FHD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
+
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="Sky Sport 1 HD" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png",SKY SPORT 1 FHD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="Sky Sport Austria 1 HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",SKY SPORT AUSTRIA 1 FHD
@@ -204,6 +206,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b0aa6d932aaf12452c91ed5fb07642c6a3139
 #EXTINF:-1 tvg-id="Fashion TV HD" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cf1edf22ab813daf05caa9d415087e29e5865b21
 
-#EXTINF:-1 tvg-id="Fashion TV HD" group-title="SPORTS" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png",90PHUT Channel 1 Test Cloud (https://www.000webhost.com/)
+#EXTINF:-1 tvg-id="Test Channel" group-title="Test-Webhost" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png",90PHUT Channel 1 Test Cloud (https://www.000webhost.com/)
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=4875a901a224a950421c9cb2d60456bd820d6199
 
