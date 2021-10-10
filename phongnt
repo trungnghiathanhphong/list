@@ -139,7 +139,7 @@ udp://@225.1.2.227:30120
 #EXTINF:-1 tvg-id="Fashion TV HD" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion Midnight Secrets TV (Acestream)
 http://localhost:6878/ace/manifest.m3u8?id=95a5dc2c3fb9754e49ca3b0c2279fb0f2806453e
 #EXTINF:-1 tvg-id="Kpop TV" group-title="Kênh quốc tế" tvg-logo="https://pbs.twimg.com/profile_images/1115906832449589250/rCRxo7F8_400x400.png",Kpop TV
-http://localhost:6878/ace/manifest.m3u8?id=b0dad8ecfef6ebff6b7c0470acfbad9762c5ba9d
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b0dad8ecfef6ebff6b7c0470acfbad9762c5ba9d
 #EXTINF:-1 tvg-id="HBO" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
 udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="KIX" group-title="Kênh quốc tế" tvg-logo="https://cms.cignal.tv/Upload/Images/kix%20hd%20(On%20White).png",KIX HD
