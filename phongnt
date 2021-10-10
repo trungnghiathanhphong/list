@@ -138,6 +138,8 @@ udp://@225.1.1.238:30120
 udp://@225.1.2.227:30120
 #EXTINF:-1 tvg-id="Fashion TV HD" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion Midnight Secrets TV (Acestream)
 http://localhost:6878/ace/manifest.m3u8?id=95a5dc2c3fb9754e49ca3b0c2279fb0f2806453e
+#EXTINF:-1 tvg-id="Kpop TV" group-title="Kênh quốc tế" tvg-logo="https://pbs.twimg.com/profile_images/1115906832449589250/rCRxo7F8_400x400.png",Kpop TV
+https://by.com.vn/Sexy-KpopTV
 #EXTINF:-1 tvg-id="HBO" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
 udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="KIX" group-title="Kênh quốc tế" tvg-logo="https://cms.cignal.tv/Upload/Images/kix%20hd%20(On%20White).png",KIX HD
@@ -146,6 +148,8 @@ udp://@225.1.2.144:30120
 udp://@225.1.1.139:30120
 #EXTINF:-1 tvg-id="MTV" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/FeFMOxH.png",MTV
 udp://@225.1.1.245:30120
+#EXTINF:-1 tvg-id="MTV" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/FeFMOxH.png",MTV Life HD
+https://by.com.vn/MTV-Life-HD
 #EXTINF:-1 tvg-id="Nat Geo Wild" group-title="Kênh quốc tế" tvg-logo="https://e7.pngegg.com/pngimages/47/543/png-clipart-logo-nat-geo-wild-national-geographic-television-channel-others.png",NAT GEO WILD HD
 udp://@225.1.1.211:30120
 #EXTINF:-1 tvg-id="National Geographic" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/z3SVeHB.png",National Geographic HD
@@ -170,8 +174,14 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=fbda842baf2646ce181a6560cfa3fe453c119
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="Sky Sport 1 HD" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png",SKY SPORT 1 FHD
 http://localhost:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
+#EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-id="sporttv" tvg-logo="https://i.pinimg.com/170x/45/dc/c2/45dcc218f82672f3517556f081dbf03d.jpg",SPORT TV 1
+http://localhost:6878/ace/manifest.m3u8?id=d027b34465b1ed60b45819ac6bf12070dab3d1ee
 #EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-id="sporttv" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png",SPORT TV 2
-https://360funnysport.000webhostapp.com/360sport/sportchannels/playlist.php?id=sporttv2
+http://localhost:6878/ace/manifest.m3u8?id=6fae558689a5045dd02409711fa3b9bd2a8678dd
+#EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-id="sporttv" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwsuqv1470409839.png",SPORT TV 3
+http://localhost:6878/ace/manifest.m3u8?id=7abfed961d37a0aae62097ac6ac5678dbeeef8bd
+#EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-id="sporttv" tvg-logo="https://www.thesportsdb.com/images/media/logo/vuytwx1470409983.png",SPORT TV 4
+http://localhost:6878/ace/manifest.m3u8?id=e09a642d1b3d7ff62fe6838b84b007f5f2f90475
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="Sky Sport Austria 1 HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",SKY SPORT AUSTRIA 1 FHD
 http://localhost:6878/ace/manifest.m3u8?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",SKY SPORT BUNDESLIGA 1 FHD
