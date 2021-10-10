@@ -205,6 +205,8 @@ http://localhost:6878/ace/manifest.m3u8?id=9007568a18c3a3c89fb9e745206a60554c114
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Movistar_laliga_1.png",MOVISTAR LIGA DE CAMPEONES FHD
 http://localhost:6878/ace/manifest.m3u8?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
 
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_EN.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj05KUUkj7pTh7pXMYcRws18m_CyxMjDdPMA&usqp=CAU", group-title="IPTV Sports",Bein Sports 1HD
-http://viewplayer.ip1v.com:25461/maan/test/25
+
+
+
+
 
