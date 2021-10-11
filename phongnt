@@ -209,7 +209,4 @@ http://localhost:6878/ace/manifest.m3u8?id=b0aa6d932aaf12452c91ed5fb07642c6a3139
 
 
 
-#EXTINF:-1 group-title="Phim" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",Phim 90phuttv
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-https://360sportvn.000webhostapp.com/vn360sport/90phut/get_90m.php?id=61630420e5fdc4008d1b9062&.m3u8|Referer=https://mitom.90phutt.xyz/
 
