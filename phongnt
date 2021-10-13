@@ -212,4 +212,6 @@ http://localhost:6878/ace/manifest.m3u8?id=b0aa6d932aaf12452c91ed5fb07642c6a3139
 
 
 
+EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Movistar_laliga_1.png", Test
+http://localhost:6878/ace/manifest.m3u8?id=c33c9e6568f079c5c5f4a377f84aca3b4a265530
 
