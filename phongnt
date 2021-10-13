@@ -105,6 +105,9 @@ udp://@225.1.1.198:30120
 udp://@225.1.2.21:30120
 #EXTINF:-1 tvg-id="AXN" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN HD
 udp://@225.1.2.225:30120
+#EXTINF:-1 tvg-id="Animax" group-title="Kênh quốc tế" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",Animax
+udp://@225.1.1.135:30120
+
 #EXTINF:-1 tvg-id="BBC EARTH" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg",BBC Earth HD
 udp://@225.1.2.24:30120
 #EXTINF:-1 tvg-id="BBC LIFESTYLE" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg",BBC Lifestyle
