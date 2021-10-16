@@ -182,7 +182,7 @@ https://hoaivnpt-livefootball.000webhostapp.com/90phut_tv.php?id=6165c4f2a6651b1
 #EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-name="Canal+ Sport" tvg-logo="https://img.sport-tv-guide.live/images/stations/a409.png",Canal+ Sport
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="Sky Sport 1 HD" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png",SKY SPORT 1 FHD
-http://localhost:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
+http://192.168.1.254:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
 #EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-id="sporttv" tvg-logo="https://i.pinimg.com/170x/45/dc/c2/45dcc218f82672f3517556f081dbf03d.jpg",SPORT TV 1
 http://localhost:6878/ace/manifest.m3u8?id=d027b34465b1ed60b45819ac6bf12070dab3d1ee
 #EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-id="sporttv" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png",SPORT TV 2
