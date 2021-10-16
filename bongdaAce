@@ -15,7 +15,8 @@ https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=371a5e5dbb66fff3e2
 #EXTINF:-1,group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 1 (M3u8)
 https://hoaivnpt-livefootball.000webhostapp.com/90phut_tv.php?id=6165c4f2a6651b1e4e649022&.m3u8|Referer=https://mitom.tiengruoi.link/
 
-
+#EXTINF:-1 group-title="SPORTS - Stream" tvg-logo="https://s1.uphinh.org/2021/10/13/A474FFF1-DC26-4EF9-8D5D-469D417F7EB7.jpg", Live Stream
+https://acedemaro.000webhostapp.com/ace1/ace/getstream?id=3ff6dd67f269f7445f9132ca69888049c9b576f4
 
 #EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-name="Canal+ Sport" tvg-logo="https://img.sport-tv-guide.live/images/stations/a409.png",Canal+ Sport
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
