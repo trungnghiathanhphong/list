@@ -41,8 +41,6 @@ udp://@225.1.1.171:30120
 udp://@225.1.1.186:30120
 #EXTINF:-1 tvg-id="HTVC Thể Thao" group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao
 udp://@225.1.1.165:30120
-#EXTINF:-1 tvg-id="HTVC Thể Thao" group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTVC Thể Thao FHD
-http://127.0.0.1:6878/ace/getstream?id=ae47144f17fca39a7fea4dae02bc806430317a0d
 #EXTINF:-1 tvg-id="THVL1 HD" group-title="Địa phương" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg",THVL1 HD
 udp://@225.1.1.155:30120
 #EXTINF:-1 tvg-id="THVL2 HD" group-title="Địa phương" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/1xs5wn33_Logo-THVLi2.jpg",THVL2 HD
@@ -139,10 +137,8 @@ udp://@225.1.2.223:30120
 udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="Fashion TV HD" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV HD
 udp://@225.1.2.227:30120
-#EXTINF:-1 tvg-id="Fashion TV HD" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1e9eae64ae1705b4c5b9feed28db9dfca88361f1
-#EXTINF:-1 tvg-id="Fashion TV HD" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion Midnight Secrets TV (Acestream)
-http://localhost:6878/ace/manifest.m3u8?id=95a5dc2c3fb9754e49ca3b0c2279fb0f2806453e
+#EXTINF:-1 tvg-id="Fashion TV HD" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion Midnight Secrets TV
+http://192.168.1.254:6878/ace/manifest.m3u8?id=95a5dc2c3fb9754e49ca3b0c2279fb0f2806453e
 #EXTINF:-1 tvg-id="Kpop TV" group-title="Kênh quốc tế" tvg-logo="https://pbs.twimg.com/profile_images/1115906832449589250/rCRxo7F8_400x400.png",Kpop TV
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=b0dad8ecfef6ebff6b7c0470acfbad9762c5ba9d
 #EXTINF:-1 tvg-id="HBO" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
@@ -179,7 +175,7 @@ https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=371a5e5dbb66fff3e2
 
 
 #EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-name="Canal+ Sport" tvg-logo="https://img.sport-tv-guide.live/images/stations/a409.png",Canal+ Sport
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
+http://192.168.1.254:6878/ace/manifest.m3u8?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="Sky Sport 1 HD" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png",SKY SPORT 1 FHD
 http://192.168.1.254:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
 #EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-id="sporttv" tvg-logo="https://i.pinimg.com/170x/45/dc/c2/45dcc218f82672f3517556f081dbf03d.jpg",SPORT TV 1
