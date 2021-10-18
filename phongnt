@@ -172,6 +172,10 @@ http://192.168.1.254:6878/ace/manifest.m3u8?id=fbda842baf2646ce181a6560cfa3fe453
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=371a5e5dbb66fff3e23c1b308eaf7cd9cfef9174
 
 
+#EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-name="Polsat Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Polsat_Sport_logo_2016.png",Polsat Sport (Cup C1)
+http://192.168.1.254:6878/ace/manifest.m3u8?id=0e4f19a8e1d43880c228dfd522aa31cf726c7296
+#EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-name="Polsat Sport 2" tvg-logo="https://toya.net.pl/static-content/images/logo_polsatsport2",Polsat Sport 2 (Cup C1)
+http://192.168.1.254:6878/ace/manifest.m3u8?id=a5f1c6f87283e5c3f54f927d3825105961770112
 #EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-name="Canal+ Sport" tvg-logo="https://img.sport-tv-guide.live/images/stations/a409.png",Canal+ Sport
 http://192.168.1.254:6878/ace/manifest.m3u8?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="Sky Sport 1 HD" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png",SKY SPORT 1 FHD
