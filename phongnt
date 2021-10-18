@@ -49,7 +49,7 @@ udp://@225.1.1.154:30120
 udp://@225.1.1.235:30120
 #EXTINF:-1 tvg-id="thvl4" group-title="Địa phương" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/05/30/ww471q39_Logo-THVL4-HD.jpg",TH Vĩnh Long 4
 udp://@225.1.2.25:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/hHh1gDQ/181.png",Trà Vinh HD
+#EXTINF:-1 tvg-id="travinh" group-title="Địa phương" tvg-logo="https://i.ibb.co/hHh1gDQ/181.png",Trà Vinh HD
 #EXTVLCOPT:http-user-agent=vietngatv
 udp://@225.1.2.172:30120
 #EXTINF:-1 tvg-id="htvcfbnc" group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg",FBNC HD
@@ -99,7 +99,7 @@ udp://@225.1.1.231:30120
 
 #EXTINF:-1 tvg-id="Asian Food Channel SD" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_149759142675.png",Asian Food Channel HD
 udp://@225.1.1.198:30120
-#EXTINF:-1 tvg-id="ABC AUSTRALIA" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/MtCA5jr.png",ABC Australia
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/MtCA5jr.png",ABC Australia
 udp://@225.1.2.21:30120
 #EXTINF:-1 tvg-id="AXN" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN HD
 udp://@225.1.2.225:30120
@@ -123,7 +123,7 @@ udp://@225.1.1.204:30120
 udp://@225.1.2.231:30120
 #EXTINF:-1 tvg-id="Channel News Asia HD" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/DhcvpCm.png",Channel News Asia
 udp://@225.1.1.202:30120
-#EXTINF:-1 tvg-id="cinema" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png",Cinemax World HD
+#EXTINF:-1 tvg-id="cinema" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png",Cinema World HD
 udp://@225.1.1.142:30120
 #EXTINF:-1 tvg-id="CNBC" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/dSArT2c.png",CNBC
 udp://@225.1.1.227:30120
@@ -137,7 +137,7 @@ udp://@225.1.2.223:30120
 udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="Fashion TV HD" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV HD
 udp://@225.1.2.227:30120
-#EXTINF:-1 tvg-id="Fashion TV HD" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion Midnight Secrets TV
+#EXTINF:-1 tvg-id="fashionhd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion Midnight Secrets TV
 http://192.168.1.254:6878/ace/manifest.m3u8?id=95a5dc2c3fb9754e49ca3b0c2279fb0f2806453e
 #EXTINF:-1 tvg-id="Kpop TV" group-title="Kênh quốc tế" tvg-logo="https://pbs.twimg.com/profile_images/1115906832449589250/rCRxo7F8_400x400.png",Kpop TV
 http://192.168.1.254:6878/ace/manifest.m3u8?id=b0dad8ecfef6ebff6b7c0470acfbad9762c5ba9d
