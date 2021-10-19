@@ -1,15 +1,15 @@
 #EXTM3U List UDP phongnt tổng hợp (EPG: http://gg.gg/epgmytv ; http://gg.gg/epgbeartv ; http://gg.gg/epgvn03)
 
 #EXTINF:-1,group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 1
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=4875a901a224a950421c9cb2d60456bd820d6199
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=6995fd79ae02f5559172feaccbfe46e0418c9502
 #EXTINF:-1,group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 2
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=ef85d17ddd020e6d5924338ee8a246a6be1c7eff
 #EXTINF:-1,group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 3
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=e9ed9d82db929115c74f295e6c9503f47987635a
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
 #EXTINF:-1,group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 4
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=1925018afeb5d44791e4c49867c8c3259a018145
 #EXTINF:-1,group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 5
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=fbda842baf2646ce181a6560cfa3fe453c11991f
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=d4575f751d08f80801b2aa25e9c09aa774a95b0d
 
 #EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-name="Canal+ Sport" tvg-logo="https://img.sport-tv-guide.live/images/stations/a409.png",Canal+ Sport
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
