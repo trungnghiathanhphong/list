@@ -34,19 +34,21 @@ https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=9007568a18c3a3c89f
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Movistar_laliga_1.png",MOVISTAR LIGA DE CAMPEONES FHD
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
 
-#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Midnite Secrets 1
+#EXTINF:-1 group-title="HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Midnite Secrets 1
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=f7f1dced7d290b43d215ad40d2fae0f6b3ffffc9
-#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Midnite Secrets 2
+#EXTINF:-1 group-title="HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Midnite Secrets 2
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=07b10f24af583d6c05941279755c0b951008ec2f
-#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Midnite Secrets 3
+#EXTINF:-1 group-title="HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Midnite Secrets 3
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=294d01f1ef5eaef8c83aae9be6732f8f27b8e3af
-#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Midnite Secrets 4
+#EXTINF:-1 group-title="HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Midnite Secrets 4
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=df8b6e7ad4aac72e58f58e4b52371cea9d9020d4
-#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV 
+#EXTINF:-1 group-title="HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV 
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=b904c4ae829c70d803383c22a3268f879d4e6db3
-#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Czech&Slovak
+#EXTINF:-1 group-title="HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Czech&Slovak
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=1d98fd132da8d145d0ea4fd7b58ef169be88b504
-#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV PHOTOSHOOTS
+#EXTINF:-1 group-title="HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV PHOTOSHOOTS
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=cf1edf22ab813daf05caa9d415087e29e5865b21
-#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/f0APgjy.png",PlayBoy TV
+#EXTINF:-1 group-title="HOT" tvg-logo="http://i.imgur.com/f0APgjy.png",PlayBoy TV
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=f691a59e53697fccd6349370bfe8354d40559518
+EXTINF:-1 group-title="HOT" tvg-logo="http://i.imgur.com/f0APgjy.png",PlayBoy TV 2
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=f691a59e53697fccd6349370bfe8354d40559518
