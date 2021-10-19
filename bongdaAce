@@ -10,11 +10,6 @@ https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=e9ed9d82db929115c7
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
 #EXTINF:-1,group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 5
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=fbda842baf2646ce181a6560cfa3fe453c11991f
-#EXTINF:-1 group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png",K+ Fake
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=371a5e5dbb66fff3e23c1b308eaf7cd9cfef9174
-
-#EXTINF:-1 group-title="SPORTS - Stream" tvg-logo="https://s1.uphinh.org/2021/10/13/A474FFF1-DC26-4EF9-8D5D-469D417F7EB7.jpg", Live Stream
-https://acedemaro.000webhostapp.com/ace1/ace/getstream?id=3ff6dd67f269f7445f9132ca69888049c9b576f4
 
 #EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-name="Canal+ Sport" tvg-logo="https://img.sport-tv-guide.live/images/stations/a409.png",Canal+ Sport
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
@@ -39,5 +34,18 @@ https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=9007568a18c3a3c89f
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Movistar_laliga_1.png",MOVISTAR LIGA DE CAMPEONES FHD
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
 
-
+#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Midnite Secrets 1
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=f7f1dced7d290b43d215ad40d2fae0f6b3ffffc9
+#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Midnite Secrets 2
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=07b10f24af583d6c05941279755c0b951008ec2f
+#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Midnite Secrets 3
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=294d01f1ef5eaef8c83aae9be6732f8f27b8e3af
+#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Midnite Secrets 4
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=df8b6e7ad4aac72e58f58e4b52371cea9d9020d4
+#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV 
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=b904c4ae829c70d803383c22a3268f879d4e6db3
+#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV Czech&Slovak
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=1d98fd132da8d145d0ea4fd7b58ef169be88b504
+#EXTINF:-1 group-title="Fashion HOT" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV PHOTOSHOOTS
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=cf1edf22ab813daf05caa9d415087e29e5865b21
 
