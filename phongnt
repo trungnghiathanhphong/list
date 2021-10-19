@@ -31,9 +31,9 @@ udp://@225.1.1.192:30120
 udp://@225.1.1.190:30120
 #EXTINF:-1 tvg-id="htvcphim" group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_paramount-channel-vietnam_153613137177.png",HTVC - Phim
 udp://@225.1.1.184:30120
-#EXTINF:-1 tvg-id="htvcgiadinh" group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-gia-dinh_150055165562.jpg",HTVC - Gia Đình
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-gia-dinh_150055165562.jpg",HTVC - Gia Đình
 udp://@225.1.1.170:30120
-#EXTINF:-1 tvg-id="htvcdulichcuocsong" group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_150055164332.jpg",Du lịch &amp; Cuộc sống HD
+#EXTINF:-1 tvg-id="htvcdulichcuocsong" group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_150055164332.jpg",Du lịch Cuộc sống HD
 udp://@225.1.1.166:30120
 #EXTINF:-1 tvg-id="htvcphunu" group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-phu-nu_150055168062.jpg",HTVC - Phụ Nữ
 udp://@225.1.1.171:30120
@@ -58,7 +58,7 @@ udp://@225.1.1.182:30120
 udp://@225.1.2.254:30120
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_145673009926.jpg",VTC2
 udp://@225.1.2.202:30120
-#EXTINF:-1 tvg-id="vtc3" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_145673013407.jpg",VTC3 HD
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_145673013407.jpg",VTC3 HD
 udp://@225.1.2.251:30120
 #EXTINF:-1 tvg-id="vtc4" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png",VTC4
 udp://@225.1.2.200:30120
@@ -72,13 +72,13 @@ udp://@225.1.2.197:30120
 udp://@225.1.2.196:30120
 #EXTINF:-1 tvg-id="vtc9" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lets-viet_145673303543.jpg",VTC9
 udp://@225.1.2.195:30120
-#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_145673016157.jpg",VTC10
+#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_145673016157.jpg",VTC10
 udp://@225.1.2.194:30120
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png",VTC11
 udp://@225.1.2.193:30120
 #EXTINF:29 tvg-id="vtc12" tvg-name="VTC12" tvg-logo="https://i.imgur.com/OHzugWa.jpg" group-title="VTC",VTC12 HD
 udp://@225.1.2.51:30120
-#EXTINF:-1 tvg-id="vtc13" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_itv_145578605209.png",VTC13 HD
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_itv_145578605209.png",VTC13 HD
 udp://@225.1.2.250:30120
 #EXTINF:-1 tvg-id="vtc14" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg",VTC14 HD
 udp://@225.1.2.88:30120
