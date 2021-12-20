@@ -159,86 +159,14 @@ udp://@225.1.2.215:30120
 udp://@225.1.1.236:30120
 
 #EXTINF:-1 tvg-id="klife" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 1
-http://192.168.1.254:6878/ace/manifest.m3u8?id=fa149a0a37809ebfca5148041c3888498eaae429
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=fa149a0a37809ebfca5148041c3888498eaae429
 #EXTINF:-1 tvg-id="ksport1" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 2
-http://192.168.1.254:6878/ace/manifest.m3u8?id=12722d111be8a2e069af83d535d5fd0b39734712
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=12722d111be8a2e069af83d535d5fd0b39734712
 #EXTINF:-1 tvg-id="ksport2" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 3
-http://192.168.1.254:6878/ace/manifest.m3u8?id=3f846942f8e8e91fb1c94fa10e2c536372ef8f2c
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=3f846942f8e8e91fb1c94fa10e2c536372ef8f2c
 #EXTINF:-1 tvg-id="kcine" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 4
-http://192.168.1.254:6878/ace/manifest.m3u8?id=27618f71bc2611dca58af879642e0b507d0f39a0
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=27618f71bc2611dca58af879642e0b507d0f39a0
 #EXTINF:-1 tvg-id="klife" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 5
-http://192.168.1.254:6878/ace/manifest.m3u8?id=058a9ac982d6d29131f9bd277111f22de28400da
+https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=058a9ac982d6d29131f9bd277111f22de28400da
 .EXTINF:-1 tvg-id="klife" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", Link Kênh ACE 90Phut
 https://pastebin.com/raw/ZFyWq2Dk
-#EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-name="Polsat Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Polsat_Sport_logo_2016.png",Polsat Sport (Cup C1)
-http://192.168.1.254:6878/ace/manifest.m3u8?id=0e4f19a8e1d43880c228dfd522aa31cf726c7296
-#EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-name="Polsat Sport 2" tvg-logo="https://toya.net.pl/static-content/images/logo_polsatsport2",Polsat Sport 2 (Cup C1)
-http://192.168.1.254:6878/ace/manifest.m3u8?id=a5f1c6f87283e5c3f54f927d3825105961770112
-#EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-name="Canal+ Sport" tvg-logo="https://img.sport-tv-guide.live/images/stations/a409.png",Canal+ Sport
-http://192.168.1.254:6878/ace/manifest.m3u8?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="Sky Sport 1 HD" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png",SKY SPORT 1 FHD
-http://192.168.1.254:6878/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
-#EXTINF:-1 tvg-id="Sport TV 1 HD" group-title="SPORTS - Âm Thanh Gốc" tvg-id="sporttv" tvg-logo="https://i.pinimg.com/170x/45/dc/c2/45dcc218f82672f3517556f081dbf03d.jpg",SPORT TV 1
-http://192.168.1.254:6878/ace/manifest.m3u8?id=d027b34465b1ed60b45819ac6bf12070dab3d1ee
-#EXTINF:-1 tvg-id="Sport TV 2 HD" group-title="SPORTS - Âm Thanh Gốc" tvg-id="sporttv" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png",SPORT TV 2
-http://192.168.1.254:6878/ace/manifest.m3u8?id=6fae558689a5045dd02409711fa3b9bd2a8678dd
-#EXTINF:-1 tvg-id="Sport TV 3 HD" group-title="SPORTS - Âm Thanh Gốc" tvg-id="sporttv" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwsuqv1470409839.png",SPORT TV 3
-http://192.168.1.254:6878/ace/manifest.m3u8?id=7abfed961d37a0aae62097ac6ac5678dbeeef8bd
-#EXTINF:-1 tvg-id="Sport TV 4 HD" group-title="SPORTS - Âm Thanh Gốc" tvg-id="sporttv" tvg-logo="https://www.thesportsdb.com/images/media/logo/vuytwx1470409983.png",SPORT TV 4
-http://192.168.1.254:6878/ace/manifest.m3u8?id=e09a642d1b3d7ff62fe6838b84b007f5f2f90475
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="Sky Sport Austria 1 HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",SKY SPORT AUSTRIA 1 FHD
-http://192.168.1.254:6878/ace/manifest.m3u8?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",SKY SPORT BUNDESLIGA 1 FHD
-http://192.168.1.254:6878/ace/manifest.m3u8?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png",DAZN 1 HD
-http://192.168.1.254:6878/ace/manifest.m3u8?id=9c2a1031d972cb21e51d8ff6cf95a38d98b8f87e
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="DAZN2 ES" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.jpg",DAZN 2 HD
-http://192.168.1.254:6878/ace/manifest.m3u8?id=699ed54b2a140b7d75ba06ecbe8c578e079b8db2
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="МАТЧ! Футбол 1 (HD)" tvg-logo="http://static.cdn.megafon.tv/images/Channel/11/41/abb8aa396654465dcf324c7991c468bf50cf/logo_poster__web.png",Маtch Futbol 1 FHD
-http://192.168.1.254:6878/ace/manifest.m3u8?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="МАТЧ! Футбол 2 (HD)" tvg-logo="https://s3.beelinetv.uz/buz-production/d8e6b6011b2444641a9d.png",Маtch Futbol 2 FHD
-http://192.168.1.254:6878/ace/manifest.m3u8?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="МАТЧ! Футбол 3 (HD)" tvg-logo="https://www.skylink.rt.lc/wp-content/uploads/2020/02/160-%D0%9C%D0%90%D0%A2%D0%A7-%D0%A4%D0%A3%D0%A2%D0%91%D0%9E%D0%9B-3-HD.png",Маtch Futbol 3 FHD
-http://192.168.1.254:6878/ace/manifest.m3u8?id=b120fc00572b516163aaa624f0d1ba095af58f9a
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="МАТЧ! Футбол 3 (HD)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-premier-1492.png",Match Premier FHD
-http://192.168.1.254:6878/ace/getstream?id=513dabafb21429d6eff9813022b2d41f49dc5bdb
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://www.bitrefill.com/content/cn/b_rgb%3AFFFFFF%2Cc_pad%2Ch_600%2Cw_1200/v1556811703/movistar.jpg",MOVISTAR LALIGA FHD
-http://192.168.1.254:6878/ace/manifest.m3u8?id=9007568a18c3a3c89fb9e745206a60554c114917
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Movistar_laliga_1.png",MOVISTAR LIGA DE CAMPEONES FHD
-http://192.168.1.254:6878/ace/manifest.m3u8?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="МАТЧ! HD" tvg-logo="http://hoaivnpt.duckdns.org/icon/MatchTV.png",Маtch ТV FHD
-http://192.168.1.254:6878/ace/getstream?id=c7f93329f3790d54491fe2c4146b59d0514d38b8
-
-#EXTINF:-1 group-title="SPORTS - Stream" tvg-logo="https://s1.uphinh.org/2021/10/13/A474FFF1-DC26-4EF9-8D5D-469D417F7EB7.jpg", CVacestream
-http://192.168.1.254:6878/ace/getstream?id=3ff6dd67f269f7445f9132ca69888049c9b576f4
-
-#EXTINF:-1 group-title="SPORTS - Stream",PIMPLETV 1 HD 50FPS
-http://192.168.1.254:6878/ace/getstream?id=11b6aa16e978a409504b9e3e9c3b29c56f392bdf
-#EXTINF:-1 group-title="SPORTS - Stream",PIMPLETV 2 HD 50FPS
-http://192.168.1.254:6878/ace/getstream?id=955bc653f090c238b8d933b41d8a66fee1bf7893
-#EXTINF:-1 group-title="SPORTS - Stream",PIMPLETV 3 HD 50FPS
-http://192.168.1.254:6878/ace/getstream?id=d2a36e305458e200c2a4952317fc33e38bd80187
-#EXTINF:-1 group-title="SPORTS - Stream",PIMPLETV 4 FHD 50FPS EPL
-http://192.168.1.254:6878/ace/getstream?id=722f34a71cedbeb96bda429dc0f4d0e015995ea4
-#EXTINF:-1 group-title="SPORTS - Stream",PIMPLETV 5 FHD 50FPS EPL
-http://192.168.1.254:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
-
-#EXTINF:-1 group-title="SPORTS - Stream",ACETOP 1 HD 50FPS
-http://192.168.1.254:6878/ace/getstream?id=77fd6e894eba1957177c0f8faa48ff851b3ffbd5
-#EXTINF:-1 group-title="SPORTS - Stream",ACETOP 2 HD 50FPS
-http://192.168.1.254:6878/ace/getstream?id=94adcdc5a9de993dd11c6d648275cfeb2be6715b
-#EXTINF:-1 group-title="SPORTS - Stream",ACETOP 3 HD 50FPS
-http://192.168.1.254:6878/ace/getstream?id=2743fd284cad79cd23afc31848091b28d5929020
-
-#EXTINF:-1 group-title="SPORTS - Stream",ONLINE 1 HD 50FPS EPL
-http://192.168.1.254:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
-#EXTINF:-1 group-title="SPORTS - Stream",ONLINE 2 HD 50FPS
-http://192.168.1.254:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
-#EXTINF:-1 group-title="SPORTS - Stream",ONLINE 3 FHD 50FPS
-http://192.168.1.254:6878/ace/getstream?id=5f569f3ecf8b4d2f2f4bc732dd7023568f76e4a9
-
-#EXTINF:-1 group-title="SPORTS - Stream",SRACHTV 1 HD
-http://192.168.1.254:6878/ace/getstream?id=2ec1a0ea283c31b2960e0e64294ca82139a34a1a
-#EXTINF:-1 group-title="SPORTS - Stream",SRACHTV 2 HD
-http://192.168.1.254:6878/ace/getstream?id=709a34c74a31dc03c1ccf20935b63f0c06fd37e8
-
