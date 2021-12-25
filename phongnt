@@ -138,9 +138,9 @@ udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="Fashion TV HD" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV HD
 udp://@225.1.2.227:30120
 #EXTINF:-1 tvg-id="fashionhd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion Midnight Secrets TV
-http://192.168.1.254:6878/ace/manifest.m3u8?id=95a5dc2c3fb9754e49ca3b0c2279fb0f2806453e
+http://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=95a5dc2c3fb9754e49ca3b0c2279fb0f2806453e
 #EXTINF:-1 tvg-id="Kpop TV" group-title="Kênh quốc tế" tvg-logo="https://pbs.twimg.com/profile_images/1115906832449589250/rCRxo7F8_400x400.png",Kpop TV
-http://192.168.1.254:6878/ace/manifest.m3u8?id=b0dad8ecfef6ebff6b7c0470acfbad9762c5ba9d
+http://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=b0dad8ecfef6ebff6b7c0470acfbad9762c5ba9d
 #EXTINF:-1 tvg-id="HBO" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
 udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="KIX" group-title="Kênh quốc tế" tvg-logo="https://cms.cignal.tv/Upload/Images/kix%20hd%20(On%20White).png",KIX HD
@@ -159,14 +159,14 @@ udp://@225.1.2.215:30120
 udp://@225.1.1.236:30120
 
 #EXTINF:-1 tvg-id="klife" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 1
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=fa149a0a37809ebfca5148041c3888498eaae429
+http://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=fa149a0a37809ebfca5148041c3888498eaae429
 #EXTINF:-1 tvg-id="ksport1" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 2
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=12722d111be8a2e069af83d535d5fd0b39734712
+http://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=12722d111be8a2e069af83d535d5fd0b39734712
 #EXTINF:-1 tvg-id="ksport2" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 3
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=3f846942f8e8e91fb1c94fa10e2c536372ef8f2c
+http://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=3f846942f8e8e91fb1c94fa10e2c536372ef8f2c
 #EXTINF:-1 tvg-id="kcine" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 4
 http://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=966bf9c2479d65f0d52bf9033430e92b7cfea242
 #EXTINF:-1 tvg-id="klife" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 5
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=058a9ac982d6d29131f9bd277111f22de28400da
+http://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=e0d6a0e875a3bebba88587da86dc5a0300abcf63
 .EXTINF:-1 tvg-id="klife" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", Link Kênh ACE 90Phut
 https://pastebin.com/raw/ZFyWq2Dk
