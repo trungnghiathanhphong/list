@@ -159,7 +159,7 @@ udp://@225.1.2.215:30120
 udp://@225.1.1.236:30120
 
 #EXTINF:-1 tvg-id="klife" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 1
-http://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=fa149a0a37809ebfca5148041c3888498eaae429
+http://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=6a32506d04ca171ad76e100da8b5e62a875e94df
 #EXTINF:-1 tvg-id="ksport1" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 2
 http://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=12722d111be8a2e069af83d535d5fd0b39734712
 #EXTINF:-1 tvg-id="ksport2" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 3
