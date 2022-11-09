@@ -158,58 +158,6 @@ udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="Travel & Living" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/TInMfsC.png",Travel & Living
 udp://@225.1.1.236:30120
 
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 07
-https://videomd1fr.keeng.net/video1/2021/10/06/00/f83b5ca1/f83b5ca1-6e58-44d1-a877-757f533fbdd8_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 08
-https://videomd1fr.keeng.net/video1/2021/10/06/00/669a312b/669a312b-0fe4-468a-bf2d-a4b1905e6752_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 09
-https://videomd1fr.keeng.net/video1/2021/10/06/00/218cb136/218cb136-5e68-49c1-bbe7-ab9499c9d9a4_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 10
-https://videomd1fr.keeng.net/video1/2021/12/10/16/8acdffd1/8acdffd1-f68d-4772-9a84-5915e621d234_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 11
-https://videomd1fr.keeng.net/video1/2021/12/10/16/f3be949d/f3be949d-cf04-4263-b7fe-cf3c0d4b61f0_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 12
-https://videomd1fr.keeng.net/video1/2021/10/06/01/8297169e/8297169e-50b7-4537-920d-8e9bf1d413ee_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 13
-https://videomd1fr.keeng.net/video1/2021/10/06/01/17e91e7c/17e91e7c-6c83-46dd-94c8-9948f7524001_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 14
-https://videomd1fr.keeng.net/video1/2021/10/06/01/8fe06f55/8fe06f55-c5ac-418e-84a7-7a4a01c1c4b9_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 15
-https://videomd1fr.keeng.net/video1/2021/10/06/01/19c99a65/19c99a65-4956-484b-89f5-ac73d70b79e6_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 16
-https://videomd1fr.keeng.net/video1/2021/10/06/01/238301ed/238301ed-552a-42e7-b351-78f500c9a46c_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 17
-https://videomd1fr.keeng.net/video1/2021/10/06/01/6ab7fedd/6ab7fedd-642f-4fa1-a37e-6fc3bdf3b1eb_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 18
-https://videomd1fr.keeng.net/video1/2021/10/06/01/07c06685/07c06685-b494-46a9-9657-68c95b7d235c_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 19
-https://videomd1fr.keeng.net/video1/2021/10/06/01/f18ccc49/f18ccc49-a958-49a0-aaf3-ac8b8a5d5a8a_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 20
-https://videomd1fr.keeng.net/video1/2021/10/06/01/c4b5457c/c4b5457c-f037-45bf-88ef-c2e7dccd2948_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 21
-https://videomd1fr.keeng.net/video1/2021/10/06/01/e5515602/e5515602-d44c-4201-b977-8c8f895b4760_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 22
-https://videomd1fr.keeng.net/video1/2021/10/06/01/48feaddc/48feaddc-7209-4489-8657-47c57bfc8f0a_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 23
-https://videomd1fr.keeng.net/video1/2021/10/06/01/16b345dc/16b345dc-e33f-43c0-a304-ff4363168fc8_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 24
-https://videomd1fr.keeng.net/video1/2021/10/06/01/0cfe287f/0cfe287f-6174-4225-a3cf-39b9819015ae_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 25
-https://videomd1fr.keeng.net/video1/2021/10/06/01/3d54466f/3d54466f-375c-4a86-b5a4-f52fa256992d_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 26
-https://videomd1fr.keeng.net/video1/2021/10/06/01/a66eaca4/a66eaca4-b790-46e3-8e9c-f79b95e1c7d0_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 27
-https://videomd1fr.keeng.net/video1/2021/10/06/01/9e3d082e/9e3d082e-d104-4e4d-bf71-8c947bfb4328_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 28
-https://videomd1fr.keeng.net/video1/2021/10/06/01/4da96edf/4da96edf-e84c-425c-8bd8-a1b9ef7a1b76_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 29
-https://videomd1fr.keeng.net/video1/2021/10/06/01/06b84974/06b84974-ca74-4097-b71d-4cd2d9824163_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 30
-https://videomd1fr.keeng.net/video1/2021/10/06/16/a73bc9fd/a73bc9fd-6306-4897-ace3-c19a3453e764_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 31
-https://videomd1fr.keeng.net/video1/2021/10/06/16/1e236b0a/1e236b0a-4362-42ae-a11f-a82aed978e72_m.m3u8
-#EXTINF:-1 tvg-id="klife" group-title="Phim" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2019/vo_tinh_tim_thay_haru_extraordinary_you.jpg", Vô Tình Tìm Thấy Haru 32-End
-https://videomd1fr.keeng.net/video1/2021/10/06/01/ab42c0ea/ab42c0ea-453d-4bed-9da5-a0e656a8b240_m.m3u8
 
 .EXTINF:-1 tvg-id="klife" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", Link Kênh ACE 90Phut
 https://pastebin.com/raw/ZFyWq2Dk
