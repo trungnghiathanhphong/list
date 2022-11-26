@@ -33,3 +33,24 @@ https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=b120fc00572b516163
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=9007568a18c3a3c89fb9e745206a60554c114917
 #EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Movistar_laliga_1.png",MOVISTAR LIGA DE CAMPEONES FHD
 https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
+
+
+
+#EXTINF:-1 tvg-id="VTV1-VTV" group-title="VTV" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/WpQtg0z.png", VTV1 HD
+http://103.216.122.121/cliptv_live/amlst:vtv1hd1/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV2-VTV" group-title="VTV" tvg-name="VTV2 HD" tvg-logo="https://i.imgur.com/R7q7HZj.png", VTV2 HD 
+http://103.216.122.121/cliptv_live/amlst:vtv2hd/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV3-VTV" group-title="VTV" tvg-name="VTV3 HD" tvg-logo="https://i.imgur.com/o6SxT3q.png", VTV3 HD  
+http://103.216.122.121/cliptv_live/amlst:vtv3hd1/playlist.m3u8
+#EXTINF:-1  tvg-id="4" tvg-name="VTV4" tvg-logo="https://i.imgur.com/4yhPtDf.png" group-title="VTV",VTV4 HD  
+http://103.216.122.121/cliptv_live/amlst:vtv4hd/playlist.m3u8
+#EXTINF:-1  tvg-id="5" tvg-name="VTV5" tvg-logo="https://i.imgur.com/VBErOd8.png" group-title="VTV",VTV5 HD  
+http://103.216.122.121/cliptv_live/amlst:vtv5hd/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV6-VTV" group-title="VTV" tvg-name="VTV6 HD" tvg-logo="https://i.imgur.com/GtnRg0D.png", VTV6 HD  
+http://103.216.122.121/cliptv_live/amlst:vtv6hd1/playlist.m3u8
+.#EXTINF:-1 tvg-id="VTV7-VTV" group-title="VTV" tvg-name="VTV7 HD" tvg-logo="https://i.imgur.com/EQaqb0h.png", VTV7 HD
+http://113.161.57.117:8822/stream/channelid/1808627821?ticket=CB261570DAFEDB5B788C3C5FED8BE5589DBF4611&profile=pass
+#EXTINF:-1 tvg-id="VTV8-VTV" group-title="VTV" tvg-name="VTV8 HD" tvg-logo="https://i.imgur.com/9XsZ2fd.png", VTV8 HD  
+http://103.216.122.121/cliptv_live/amlst:vtv8hd/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV9-VTV" group-title="VTV" tvg-name="VTV9 HD" tvg-logo="https://i.imgur.com/UBN3r3k.png", VTV9 HD  
+http://103.216.122.121/cliptv_live/amlst:vtv9hd/playlist.m3u8
