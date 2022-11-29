@@ -6,16 +6,18 @@ http://103.216.122.121/cliptv_live/amlst:vtv1hd/playlist.m3u8
 http://103.216.122.121/cliptv_live/amlst:vtv2hd/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV3-VTV" group-title="VTV" tvg-name="VTV3 HD" tvg-logo="https://i.imgur.com/o6SxT3q.png", VTV3 HD  
 http://103.216.122.121/cliptv_live/amlst:vtv3hd/playlist.m3u8
-#EXTINF:-1  tvg-id="4" tvg-name="VTV4" tvg-logo="https://i.imgur.com/4yhPtDf.png" group-title="VTV",VTV4 HD  
+#EXTINF:-1  tvg-id="VTV4-VTV" tvg-name="VTV4" tvg-logo="https://i.imgur.com/4yhPtDf.png" group-title="VTV",VTV4 HD  
 http://103.216.122.121/cliptv_live/amlst:vtv4hd/playlist.m3u8
-#EXTINF:-1  tvg-id="5" tvg-name="VTV5" tvg-logo="https://i.imgur.com/VBErOd8.png" group-title="VTV",VTV5 HD  
+#EXTINF:-1  tvg-id="VTV5-VTV" tvg-name="VTV5" tvg-logo="https://i.imgur.com/VBErOd8.png" group-title="VTV",VTV5 HD  
 http://103.216.122.121/cliptv_live/amlst:vtv5hd/playlist.m3u8
-
+#EXTINF:-1 tvg-id="VTV7-VTV" group-title="VTV" tvg-name="VTV7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png", VTV7 HD
+http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=efd778446b5d0ad3b5f031808679022778b1c941
 #EXTINF:-1 tvg-id="VTV8-VTV" group-title="VTV" tvg-name="VTV8 HD" tvg-logo="https://i.imgur.com/9XsZ2fd.png", VTV8 HD  
 http://103.216.122.121/cliptv_live/amlst:vtv8hd/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV9-VTV" group-title="VTV" tvg-name="VTV9 HD" tvg-logo="https://i.imgur.com/UBN3r3k.png", VTV9 HD  
+#EXTINF:-1 tvg-id="VTV9-VTV" group-title="VTV" tvg-name="VTV9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png", VTV9 HD  
 http://103.216.122.121/cliptv_live/amlst:vtv9hd/playlist.m3u8
-
+#EXTINF:-1 tvg-id="VTV Cần Thơ" group-title="VTV" tvg-name="VTV Cần Thơ" tvg-logo="https://i.imgur.com/UBN3r3k.png", VTV Cần Thơ
+http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=2acea96426d6860c4adac86163dee4a6b430f5cc
 #EXTINF:-1 tvg-id="VTV9-VTV" group-title="Football" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://download.vikidia.org/vikidia/fr/images/thumb/3/32/Inazuma_Ballon.png/1200px-Inazuma_Ballon.png", Polsat Sport Premium 1 FHD  
 http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=37d9305dc59f789282d0abe2711c580124a3c2cb
 #EXTINF:-1 tvg-id="VTV9-VTV" group-title="Football" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://download.vikidia.org/vikidia/fr/images/thumb/3/32/Inazuma_Ballon.png/1200px-Inazuma_Ballon.png", Polsat Sport Premium 2 FHD  
