@@ -1,41 +1,5 @@
 #EXTM3U List UDP phongnt tổng hợp (EPG: http://gg.gg/epgmytv ; http://gg.gg/epgbeartv ; http://gg.gg/epgvn03)
 
-#EXTINF:-1,group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 1
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=6995fd79ae02f5559172feaccbfe46e0418c9502
-#EXTINF:-1,group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 2
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=ef85d17ddd020e6d5924338ee8a246a6be1c7eff
-#EXTINF:-1,group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 3
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
-#EXTINF:-1,group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 4
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=1925018afeb5d44791e4c49867c8c3259a018145
-#EXTINF:-1,group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", 90PHUT Channel 5
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=d4575f751d08f80801b2aa25e9c09aa774a95b0d
-
-#EXTINF:-1 tvg-id="Acestream" group-title="SPORTS - Âm Thanh Gốc" tvg-name="Canal+ Sport" tvg-logo="https://img.sport-tv-guide.live/images/stations/a409.png",Canal+ Sport
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="Sky Sport 1 HD" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-free-download-PNG.png",SKY SPORT 1 FHD
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="Sky Sport Austria 1 HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",SKY SPORT AUSTRIA 1 FHD
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",SKY SPORT BUNDESLIGA 1 FHD
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png",DAZN 1 HD
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=9c2a1031d972cb21e51d8ff6cf95a38d98b8f87e
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="DAZN 2 HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.jpg",DAZN 2 HD
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=699ed54b2a140b7d75ba06ecbe8c578e079b8db2
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="МАТЧ! Футбол 1 (HD)" tvg-logo="http://static.cdn.megafon.tv/images/Channel/11/41/abb8aa396654465dcf324c7991c468bf50cf/logo_poster__web.png",Маtch Futbol 1 FHD
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="МАТЧ! Футбол 2 (HD)" tvg-logo="https://s3.beelinetv.uz/buz-production/d8e6b6011b2444641a9d.png",Маtch Futbol 2 FHD
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-id="МАТЧ! Футбол 3 (HD)" tvg-logo="https://www.skylink.rt.lc/wp-content/uploads/2020/02/160-%D0%9C%D0%90%D0%A2%D0%A7-%D0%A4%D0%A3%D0%A2%D0%91%D0%9E%D0%9B-3-HD.png",Маtch Futbol 3 FHD
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=b120fc00572b516163aaa624f0d1ba095af58f9a
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://www.bitrefill.com/content/cn/b_rgb%3AFFFFFF%2Cc_pad%2Ch_600%2Cw_1200/v1556811703/movistar.jpg",MOVISTAR LALIGA FHD
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=9007568a18c3a3c89fb9e745206a60554c114917
-#EXTINF:-1 group-title="SPORTS - Âm Thanh Gốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Movistar_laliga_1.png",MOVISTAR LIGA DE CAMPEONES FHD
-https://acedemaro.000webhostapp.com/ace1/ace/manifest.m3u8?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
-
-
-
 #EXTINF:-1 tvg-id="VTV1-VTV" group-title="VTV" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/WpQtg0z.png", VTV1 HD
 http://103.216.122.121/cliptv_live/amlst:vtv1hd1/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV2-VTV" group-title="VTV" tvg-name="VTV2 HD" tvg-logo="https://i.imgur.com/R7q7HZj.png", VTV2 HD 
@@ -54,3 +18,16 @@ http://113.161.57.117:8822/stream/channelid/1808627821?ticket=CB261570DAFEDB5B78
 http://103.216.122.121/cliptv_live/amlst:vtv8hd/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV9-VTV" group-title="VTV" tvg-name="VTV9 HD" tvg-logo="https://i.imgur.com/UBN3r3k.png", VTV9 HD  
 http://103.216.122.121/cliptv_live/amlst:vtv9hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VTV9-VTV" group-title="Football" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://download.vikidia.org/vikidia/fr/images/thumb/3/32/Inazuma_Ballon.png/1200px-Inazuma_Ballon.png", Polsat Sport Premium 1 FHD  
+http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=37d9305dc59f789282d0abe2711c580124a3c2cb
+#EXTINF:-1 tvg-id="VTV9-VTV" group-title="Football" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://download.vikidia.org/vikidia/fr/images/thumb/3/32/Inazuma_Ballon.png/1200px-Inazuma_Ballon.png", Polsat Sport Premium 2 FHD  
+http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=e910631127f1ccee5aa720cf58760688e9d4bbee
+#EXTINF:-1 tvg-id="VTV9-VTV" group-title="Football" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://download.vikidia.org/vikidia/fr/images/thumb/3/32/Inazuma_Ballon.png/1200px-Inazuma_Ballon.png", Polsat Sport Premium 3 FHD  
+http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=71ef40ea6b59a168dc8fb367484fa4e4561d56bc
+#EXTINF:-1 tvg-id="VTV9-VTV" group-title="Football" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://download.vikidia.org/vikidia/fr/images/thumb/3/32/Inazuma_Ballon.png/1200px-Inazuma_Ballon.png", Polsat Sport Premium 4 FHD  
+http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=3fc72c8f037a00e8aa444c7ca6592276029f610d
+#EXTINF:-1 tvg-id="VTV9-VTV" group-title="Football" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://download.vikidia.org/vikidia/fr/images/thumb/3/32/Inazuma_Ballon.png/1200px-Inazuma_Ballon.png", Polsat Sport Premium 5 FHD  
+http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=d2f76b2488aee1d540098f8cd60e4c0b36087016
+#EXTINF:-1 tvg-id="VTV9-VTV" group-title="Football" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://download.vikidia.org/vikidia/fr/images/thumb/3/32/Inazuma_Ballon.png/1200px-Inazuma_Ballon.png", Polsat Sport Premium 5 FHD  
+http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=370a598ae53f1da733ba66ae3ee95044c8b41303
