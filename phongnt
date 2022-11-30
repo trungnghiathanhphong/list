@@ -174,16 +174,10 @@ udp://@225.1.2.235:30120
 udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="Travel & Living" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/TInMfsC.png",Travel & Living
 udp://@225.1.1.236:30120
-
-
-#EXTINF:-1 tvg-id="Thử Nghiệm" group-title="Kênh Thử Nghiệm - Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Polsat_play.png/800px-Polsat_play.png",Polsat Play HD
-http://192.168.1.100:6878/ace/manifest.m3u8?id=e4d2c55abda527189c123a2d0eb5c303c2aeca41
+#-------------------Kênh Thử Nghiệm-------------------#
 #EXTINF:-1 tvg-id="Thử Nghiệm" group-title="Kênh Thử Nghiệm - Local" tvg-logo="https://media.info/i/lf/0/1507600241/6752.png",Sky Sports Main Event [UK]
 http://192.168.1.100:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-id="Thử Nghiệm" group-title="Kênh Thử Nghiệm - Local" tvg-logo="https://media.info/i/lf/0/1507600241/6752.png",Sky Sports Mix
-http://192.168.1.100:6878/ace/manifest.m3u8?id=a6bd243f82c49ffa696b592e30796dd9ad0511cc
 #EXTINF:-1 tvg-id="Thử Nghiệm" group-title="Kênh Thử Nghiệm - Local" tvg-logo="https://media.info/i/lf/0/1507600241/6752.png",Sky Sports Arena
 http://192.168.1.100:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-id="Thử Nghiệm" group-title="Kênh Thử Nghiệm - Local" tvg-logo="https://media.info/i/lf/0/1507600241/6752.png",Sky Crime HD
-http://192.168.1.100:6878/ace/manifest.m3u8?id=4f9e3ee8fdba697aefe9be9e2238f229ba9f4db3
+
 
