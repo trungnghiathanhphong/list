@@ -1,4 +1,5 @@
-#EXTM3U List UDP phongnt tổng hợp (EPG: http://gg.gg/epgmytv ; http://gg.gg/epgbeartv ; http://gg.gg/epgvn03)
+#EXTM3U List UDP phongnt tổng hợp (EPG: http://gg.gg/epgmytv ; http://gg.gg/epgbeartv ; http://gg.gg/epgvn03 ; https://pastebin.com/raw/RG0SUHWY (List UDP FPT))
+#-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="VTV1" group-title="VTV" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/WpQtg0z.png", VTV1 HD
 udp://@225.1.2.249:30120
 #EXTINF:-1 tvg-id="VTV2" group-title="VTV" tvg-name="VTV2 HD" tvg-logo="https://i.imgur.com/R7q7HZj.png", VTV2 HD
@@ -9,7 +10,7 @@ udp://@225.1.2.247:30120
 udp://@225.1.2.20:30120
 #EXTINF:-1 tvg-id="VTV5" group-title="VTV" tvg-name="VTV5 HD" tvg-logo="https://i.imgur.com/VBErOd8.png", VTV5 HD
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="VTVCanTho" group-title="VTV" tvg-name="VTV Cần Thơ" tvg-logo="https://i.imgur.com/GtnRg0D.png", VTV Cần Thơ
+#EXTINF:-1 tvg-id="VTVCanTho" group-title="VTV" tvg-name="VTV Cần Thơ" tvg-logo="https://i.imgur.com/ATJwYik.jpg", VTV Cần Thơ
 udp://@225.1.2.245:30120
 #EXTINF:-1 tvg-id="VTV7" group-title="VTV" tvg-name="VTV7 HD" tvg-logo="https://i.imgur.com/EQaqb0h.png", VTV7 HD
 udp://@225.1.2.96:30120
@@ -17,6 +18,18 @@ udp://@225.1.2.96:30120
 udp://@225.1.2.166:30120
 #EXTINF:-1 tvg-id="VTV9" group-title="VTV" tvg-name="VTV9 HD" tvg-logo="https://i.imgur.com/UBN3r3k.png", VTV9 HD
 udp://@225.1.1.128:30120
+#-------------------K+-------------------#
+#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/diHhSPR.jpg",K+ Cine (HD 8Mbps)
+udp://@225.1.1.5:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/cjb5geD.jpg",K+ Life (HD 8Mbps)
+udp://@225.1.1.6:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/mEhtHgM.jpg",K+ Sports 1 (HD 8Mbps)
+udp://@225.1.1.73:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/QwYp41Y.jpg",K+ Sports 2 (HD 8Mbps)
+udp://@225.1.1.77:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/M1WQfVE.jpg",K+ Kids (HD 8Mbps)
+udp://@225.1.1.76:30120
+#-------------------HTV-------------------#
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg",HTV1
 udp://@225.1.1.180:30120
 #EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv2_145672764721.jpg",HTV2 
@@ -41,6 +54,7 @@ udp://@225.1.1.171:30120
 udp://@225.1.1.186:30120
 #EXTINF:-1 tvg-id="htvthethao" group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png",HTV Thể thao
 udp://@225.1.1.165:30120
+#-------------------Địa Phương-------------------#
 #EXTINF:-1 tvg-id="thvl1" group-title="Địa phương" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg",TH Vĩnh Long 1
 udp://@225.1.1.155:30120
 #EXTINF:-1 tvg-id="thvl2" group-title="Địa phương" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/1xs5wn33_Logo-THVLi2.jpg",TH Vĩnh Long 2
@@ -54,6 +68,7 @@ udp://@225.1.2.25:30120
 udp://@225.1.2.172:30120
 #EXTINF:-1 tvg-id="htvcfbnc" group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg",FBNC HD
 udp://@225.1.1.182:30120
+#-------------------VTC-------------------#
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_14567301764.jpg",VTC1 HD
 udp://@225.1.2.254:30120
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_145673009926.jpg",VTC2
@@ -143,6 +158,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=80d98e27bc7dcad214fca3b2a7ef9ff5c1496
 http://192.168.1.100:6878/ace/manifest.m3u8?id=b0dad8ecfef6ebff6b7c0470acfbad9762c5ba9d
 #EXTINF:-1 tvg-id="HBO" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
 udp://@225.1.2.233:30120
+#EXTINF:-1 tvg-id="HBO" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO (HD 12Mbps)
+udp://@225.1.4.90:30120
 #EXTINF:-1 tvg-id="KIX" group-title="Kênh quốc tế" tvg-logo="https://cms.cignal.tv/Upload/Images/kix%20hd%20(On%20White).png",KIX HD
 udp://@225.1.2.144:30120
 #EXTINF:-1 tvg-id="warnertv" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png",Warner Bros TV HD
@@ -161,8 +178,6 @@ udp://@225.1.1.236:30120
 
 #EXTINF:-1 tvg-id="Thử Nghiệm" group-title="Kênh Thử Nghiệm - Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Polsat_play.png/800px-Polsat_play.png",Polsat Play HD
 http://192.168.1.100:6878/ace/manifest.m3u8?id=e4d2c55abda527189c123a2d0eb5c303c2aeca41
-#EXTINF:-1 tvg-id="Thử Nghiệm" group-title="Kênh Thử Nghiệm - Local" tvg-logo="https://media.info/i/lf/0/1507600241/6752.png",Sky Sports Football [UK]
-http://192.168.1.100:6878/ace/manifest.m3u8?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="Thử Nghiệm" group-title="Kênh Thử Nghiệm - Local" tvg-logo="https://media.info/i/lf/0/1507600241/6752.png",Sky Sports Main Event [UK]
 http://192.168.1.100:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-id="Thử Nghiệm" group-title="Kênh Thử Nghiệm - Local" tvg-logo="https://media.info/i/lf/0/1507600241/6752.png",Sky Sports Mix
@@ -171,5 +186,4 @@ http://192.168.1.100:6878/ace/manifest.m3u8?id=a6bd243f82c49ffa696b592e30796dd9a
 http://192.168.1.100:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="Thử Nghiệm" group-title="Kênh Thử Nghiệm - Local" tvg-logo="https://media.info/i/lf/0/1507600241/6752.png",Sky Crime HD
 http://192.168.1.100:6878/ace/manifest.m3u8?id=4f9e3ee8fdba697aefe9be9e2238f229ba9f4db3
-.EXTINF:-1 tvg-id="klife" group-title="Bóng Đá" tvg-logo="https://90plink.com/wp-content/uploads/2021/05/90phutlink.png", Link Kênh ACE 90Phut
-https://pastebin.com/raw/ZFyWq2Dk
+
