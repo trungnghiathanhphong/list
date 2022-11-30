@@ -108,7 +108,7 @@ udp://@225.1.1.188:30120
 udp://@225.1.2.169:30120
 
 
-
+#-------------------Kênh Quốc Tế-------------------#
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/ooy2lyY.png",Animal Planet
 udp://@225.1.1.231:30120
 
@@ -153,7 +153,7 @@ udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="Fashion TV HD" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV HD
 udp://@225.1.2.227:30120
 #EXTINF:-1 tvg-id="fashionhd" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion Midnight Secrets TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=80d98e27bc7dcad214fca3b2a7ef9ff5c1496cef
+http://192.168.1.100:6878/ace/manifest.m3u8?id=80d98e27bc7dcad214fca3b2a7ef9ff5c1496cef
 #EXTINF:-1 tvg-id="Kpop TV" group-title="Kênh quốc tế" tvg-logo="https://pbs.twimg.com/profile_images/1115906832449589250/rCRxo7F8_400x400.png",Kpop TV
 http://192.168.1.100:6878/ace/manifest.m3u8?id=b0dad8ecfef6ebff6b7c0470acfbad9762c5ba9d
 #EXTINF:-1 tvg-id="HBO" group-title="Kênh quốc tế" tvg-logo="http://i.imgur.com/wEqQSrc.png",HBO HD
