@@ -1,4 +1,4 @@
-#EXTM3U List UDP phongnt tổng hợp (EPG: http://gg.gg/epgmytv ; http://gg.gg/epgbeartv ; http://gg.gg/epgvn03 ; https://pastebin.com/raw/RG0SUHWY (List UDP FPT))
+#EXTM3U List UDP phongnt tổng hợp (EPG: http://gg.gg/epgmytv ; http://gg.gg/epgbeartv ; http://gg.gg/epgvn03 ; https://pastebin.com/raw/RG0SUHWY ; http:hqth.me/fpt (List UDP FPT))
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="VTV1" group-title="VTV" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/WpQtg0z.png", VTV1 HD
 udp://@225.1.2.249:30120
