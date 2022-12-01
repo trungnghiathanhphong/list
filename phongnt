@@ -180,4 +180,12 @@ http://192.168.1.100:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69e
 #EXTINF:-1 tvg-id="Thử Nghiệm" group-title="Kênh Thử Nghiệm - Local" tvg-logo="https://media.info/i/lf/0/1507600241/6752.png",Sky Sports Arena
 http://192.168.1.100:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
-
+#--https://pastebin.com/raw/dNvDhWNu?fbclid=IwAR0cutEyxDIowkoJbQ-KRoEcacVfIK3Drq3QLfcBArJv8jlu_vun8MxNrKw--#
+#EXTINF:0, World Cup 4K Sever 1
+http://sg.cvacetv.ga/4KUHD
+#EXTINF:0, World Cup 4K Sever 2
+http://vn3.cvacetv.ga/4K/mpegts
+#EXTINF:0, World Cup Âm thanh gốc 1
+http://vn2.cvacetv.ga/WC1
+#EXTINF:0, World Cup Âm thanh gốc 2
+http://vn2.cvacetv.ga/WC2
