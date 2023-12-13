@@ -16,17 +16,3 @@ http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=efd778446b5d0ad3b5f03180
 http://103.216.122.121/cliptv_live/amlst:vtv8hd/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV9-VTV" group-title="VTV" tvg-name="VTV9 HD" tvg-logo="https://i.imgur.com/UBN3r3k.png", VTV9 HD  
 http://103.216.122.121/cliptv_live/amlst:vtv9hd/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV Cần Thơ" group-title="VTV" tvg-name="VTV Cần Thơ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png", VTV Cần Thơ
-http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=2acea96426d6860c4adac86163dee4a6b430f5cc
-#EXTINF:-1 tvg-id="Football" group-title="Football" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://download.vikidia.org/vikidia/fr/images/thumb/3/32/Inazuma_Ballon.png/1200px-Inazuma_Ballon.png", Polsat Sport Premium 1 FHD  
-http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=37d9305dc59f789282d0abe2711c580124a3c2cb
-#EXTINF:-1 tvg-id="Football" group-title="Football" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://download.vikidia.org/vikidia/fr/images/thumb/3/32/Inazuma_Ballon.png/1200px-Inazuma_Ballon.png", Polsat Sport Premium 2 FHD  
-http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=e910631127f1ccee5aa720cf58760688e9d4bbee
-#EXTINF:-1 tvg-id="Football" group-title="Football" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://download.vikidia.org/vikidia/fr/images/thumb/3/32/Inazuma_Ballon.png/1200px-Inazuma_Ballon.png", Polsat Sport Premium 3 FHD  
-http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=71ef40ea6b59a168dc8fb367484fa4e4561d56bc
-#EXTINF:-1 tvg-id="Football" group-title="Football" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://download.vikidia.org/vikidia/fr/images/thumb/3/32/Inazuma_Ballon.png/1200px-Inazuma_Ballon.png", Polsat Sport Premium 4 FHD  
-http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=3fc72c8f037a00e8aa444c7ca6592276029f610d
-#EXTINF:-1 tvg-id="Football" group-title="Football" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://download.vikidia.org/vikidia/fr/images/thumb/3/32/Inazuma_Ballon.png/1200px-Inazuma_Ballon.png", Polsat Sport Premium 5 FHD  
-http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=d2f76b2488aee1d540098f8cd60e4c0b36087016
-#EXTINF:-1 tvg-id="Football" group-title="Football" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="https://download.vikidia.org/vikidia/fr/images/thumb/3/32/Inazuma_Ballon.png/1200px-Inazuma_Ballon.png", Polsat Sport Premium 5 FHD  
-http://thanhphong.duckdns.org:6878/ace/manifest.m3u8?id=370a598ae53f1da733ba66ae3ee95044c8b41303
